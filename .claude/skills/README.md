@@ -18,6 +18,7 @@ project conventions and multi-step workflows on top of that.
 | `vercel-composition-patterns` | vercel-labs/agent-skills `skills/composition-patterns` | `1a2c79d` | MIT |
 | `vercel-react-view-transitions` | vercel-labs/agent-skills `skills/react-view-transitions` | `1a2c79d` | MIT |
 | `web-design-guidelines` | vercel-labs/agent-skills + [web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines) | `434b7f9` (2026-10-05) | MIT |
+| `shadcn` | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) `skills/shadcn` | `42f3bb6` (2026-11-06) | MIT |
 | `frontend-design` | [anthropics/skills](https://github.com/anthropics/skills) `skills/frontend-design` | `2c5958e` (2026-11-06) | Apache-2.0 |
 
 Third-party skills are vendored unmodified, with one exception:

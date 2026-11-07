@@ -18,7 +18,8 @@ Read the relevant doc before writing code; the paths below are relative to
 | Framework | `next@16.4.5`, App Router only (`app/`), Turbopack |
 | React | `19.3` (no `forwardRef`; `ref` is a prop; `use()`, `useActionState`) |
 | Flags | `cacheComponents: true`, `partialPrefetching: true` in `next.config.ts` |
-| Styling | Tailwind v4, CSS-first. Loaded by the `@tailwindcss/turbopack` loader in `next.config.ts` (no `postcss.config`, no `tailwind.config.*`). Tokens live in `@theme` in `app/globals.css` |
+| Styling | Tailwind v4, CSS-first. Loaded by the `@tailwindcss/turbopack` loader in `next.config.ts` (no `postcss.config`, no `tailwind.config.*`). Tokens live in `@theme inline` + CSS variables in `app/globals.css`. Dark mode is class-based (`.dark`) |
+| UI kit | shadcn/ui (`components.json`: style `radix-nova`, Radix via the `radix-ui` package, `lucide-react` icons). Components in `components/ui/`, `cn` from `@/lib/utils`. Add with `bunx --bun shadcn@latest add <name>`; follow the `shadcn` skill |
 | Package manager | Bun (`bun install`, `bun run <script>`, `bunx <bin>`). Translate `pnpm`/`npm` examples from docs and skills |
 | Imports | `@/*` maps to the repo root |
 | Lint | ESLint 9 flat config (`eslint.config.mjs`); `next lint` no longer exists |
@@ -128,6 +129,7 @@ Don't delete `.next` while `next dev` is running. If a dev server is already up
 | Writing/reviewing React for performance | `vercel-react-best-practices` |
 | Component API design (compound components, boolean-prop sprawl) | `vercel-composition-patterns` |
 | Page/shared-element animations | `vercel-react-view-transitions` (Next guide: `02-guides/view-transitions.md`) |
+| Adding, composing, or styling UI components | `shadcn` |
 | Visual direction for new UI | `frontend-design` |
 | Accessibility/UX audit of UI code | `web-design-guidelines` |
 
@@ -138,3 +140,7 @@ Known conflicts, resolved:
   fetching plus Suspense. Use SWR only for truly client-driven data.
 - `web-design-guidelines` says Title Case and `frontend-design` says sentence
   case. Match whatever the existing UI already uses.
+- `frontend-design` asks for a distinctive palette and type, while `shadcn` forbids
+  raw colors and `dark:` overrides. Express the design through the shadcn
+  CSS variables and `cva` variants in `app/globals.css` / `components/ui/`,
+  not through one-off utility colors.
