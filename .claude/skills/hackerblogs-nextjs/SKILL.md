@@ -5,8 +5,14 @@ description: Project conventions for this repo's Next.js 16.4 App Router + React
 
 # hackerblogs Next.js conventions
 
+This repo is a Turborepo monorepo. The Next.js app lives in **`apps/web`**; every
+path below (`app/`, `components/`, `lib/`, `next.config.ts`, …) is relative to
+`apps/web`, and commands run from there (or via `bun run --cwd apps/web …`).
+Data comes from Neon Postgres through `@hackerreads/db/web`; the data pipeline
+is `apps/pipeline` (see the root README).
+
 Your training data predates this stack. The installed docs at
-`node_modules/next/dist/docs/` are the source of truth. When this file,
+`apps/web/node_modules/next/dist/docs/` are the source of truth. When this file,
 another skill, or your memory disagrees with them, **the bundled docs win**.
 Read the relevant doc before writing code; the paths below are relative to
 `node_modules/next/dist/docs/01-app/`.

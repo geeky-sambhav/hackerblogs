@@ -1,0 +1,1 @@
+CREATE INDEX "editorial_piece_idx" ON "editorial_picks" USING btree ("piece_id");

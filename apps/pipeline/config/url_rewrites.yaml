@@ -1,0 +1,5 @@
+# Publisher URL rewrites applied during canonicalisation.
+# Most old-format URLs are merged later by following redirects / rel=canonical
+# during the metadata fetch, so this list is intentionally small.
+# Each rule: { host, pattern (regex on the path), replace }
+rules: []

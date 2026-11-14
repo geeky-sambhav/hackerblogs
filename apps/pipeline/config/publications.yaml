@@ -1,0 +1,53 @@
+# Known publications. Their domains are pre-marked "include" in the domain
+# review. includePaths (regexes on the URL path) restrict a shared domain to the
+# long-form section (e.g. only the NYT Magazine on nytimes.com).
+# paywall: free | metered | paywalled.  kind: publisher | independent.
+publications:
+  # --- seed list ---
+  - { slug: the-new-yorker, name: The New Yorker, domains: [newyorker.com], paywall: metered, kind: publisher }
+  - { slug: the-atlantic, name: The Atlantic, domains: [theatlantic.com], paywall: metered, kind: publisher }
+  - { slug: aeon, name: Aeon, domains: [aeon.co], paywall: free, kind: publisher }
+  - { slug: the-guardian, name: The Guardian, domains: [theguardian.com, guardian.co.uk], paywall: free, kind: publisher }
+  - { slug: quanta-magazine, name: Quanta Magazine, domains: [quantamagazine.org], paywall: free, kind: publisher }
+  - { slug: london-review-of-books, name: London Review of Books, domains: [lrb.co.uk], paywall: paywalled, kind: publisher }
+  - { slug: harpers-magazine, name: "Harper's Magazine", domains: [harpers.org], paywall: paywalled, kind: publisher }
+  - slug: the-new-york-times-magazine
+    name: The New York Times Magazine
+    domains: [nytimes.com]
+    includePaths: ["^/(\\d{4}/\\d{2}/\\d{2}/)?magazine/", "^/interactive/\\d{4}/\\d{2}/\\d{2}/magazine/"]
+    paywall: metered
+    kind: publisher
+  - { slug: noema, name: Noema, domains: [noemamag.com], paywall: free, kind: publisher }
+  - { slug: works-in-progress, name: Works in Progress, domains: [worksinprogress.co, worksinprogress.news], paywall: free, kind: publisher }
+  - slug: "1843-magazine"
+    name: 1843 Magazine
+    domains: [economist.com, 1843magazine.com]
+    includePaths: ["^/1843/"]
+    paywall: paywalled
+    kind: publisher
+  - { slug: nautilus, name: Nautilus, domains: [nautil.us], paywall: metered, kind: publisher }
+  - { slug: asterisk, name: Asterisk, domains: [asteriskmag.com], paywall: free, kind: publisher }
+  - { slug: the-marginalian, name: The Marginalian, domains: [themarginalian.org, brainpickings.org], paywall: free, kind: publisher }
+  # --- additions ---
+  - { slug: propublica, name: ProPublica, domains: [propublica.org], paywall: free, kind: publisher }
+  - { slug: the-atavist-magazine, name: The Atavist Magazine, domains: [magazine.atavist.com, atavist.com], paywall: metered, kind: publisher }
+  - { slug: texas-monthly, name: Texas Monthly, domains: [texasmonthly.com], paywall: metered, kind: publisher }
+  - { slug: esquire, name: Esquire, domains: [esquire.com], paywall: metered, kind: publisher }
+  - { slug: gq, name: GQ, domains: [gq.com], paywall: metered, kind: publisher }
+  - { slug: new-york-magazine, name: New York Magazine, domains: [nymag.com, thecut.com, vulture.com, grubstreet.com, curbed.com], paywall: metered, kind: publisher }
+  - { slug: california-sunday-magazine, name: California Sunday Magazine, domains: [californiasunday.com], paywall: free, kind: publisher }
+  - { slug: wired, name: Wired, domains: [wired.com], paywall: metered, kind: publisher }
+  - { slug: n-plus-one, name: n+1, domains: [nplusonemag.com], paywall: metered, kind: publisher }
+  - { slug: the-point, name: The Point, domains: [thepointmag.com], paywall: metered, kind: publisher }
+  - { slug: the-baffler, name: The Baffler, domains: [thebaffler.com], paywall: metered, kind: publisher }
+  - { slug: granta, name: Granta, domains: [granta.com], paywall: metered, kind: publisher }
+  - { slug: vanity-fair, name: Vanity Fair, domains: [vanityfair.com], paywall: metered, kind: publisher }
+  - { slug: outside, name: Outside, domains: [outsideonline.com], paywall: metered, kind: publisher }
+  - { slug: the-believer, name: The Believer, domains: [thebeliever.net, believermag.com], paywall: free, kind: publisher }
+  - { slug: rolling-stone, name: Rolling Stone, domains: [rollingstone.com], paywall: metered, kind: publisher }
+  # --- independent writers (blogs / newsletters) ---
+  - { slug: paul-graham, name: Paul Graham, domains: [paulgraham.com], paywall: free, kind: independent }
+  - { slug: slate-star-codex, name: Slate Star Codex, domains: [slatestarcodex.com], paywall: free, kind: independent }
+  - { slug: astral-codex-ten, name: Astral Codex Ten, domains: [astralcodexten.com, astralcodexten.substack.com], paywall: free, kind: independent }
+  - { slug: gwern, name: Gwern, domains: [gwern.net], paywall: free, kind: independent }
+  - { slug: dan-luu, name: Dan Luu, domains: [danluu.com], paywall: free, kind: independent }

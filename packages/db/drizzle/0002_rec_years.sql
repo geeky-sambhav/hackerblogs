@@ -1,0 +1,1 @@
+ALTER TABLE "pieces" ADD COLUMN "rec_years" smallint[] DEFAULT '{}'::smallint[] NOT NULL;

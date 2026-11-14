@@ -1,0 +1,1 @@
+ALTER TABLE "editorial_picks" ADD COLUMN "tags" text;

@@ -1,0 +1,1 @@
+ALTER TABLE "pieces" ADD COLUMN "alias_urls" text[] DEFAULT '{}'::text[] NOT NULL;

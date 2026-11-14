@@ -1,0 +1,35 @@
+{
+  "name": "@hackerreads/pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pipeline": "UV_THREADPOOL_SIZE=32 tsx src/cli.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@duckdb/node-api": "1.5.6-r.2",
+    "@hackerreads/db": "workspace:*",
+    "@hackerreads/shared": "workspace:*",
+    "@mozilla/readability": "0.6.0",
+    "bottleneck": "2.19.5",
+    "cheerio": "1.2.0",
+    "dotenv": "18.0.9",
+    "drizzle-orm": "0.45.4",
+    "linkedom": "0.18.15",
+    "p-limit": "7.3.3",
+    "pg": "8.23.1",
+    "pg-copy-streams": "7.0.0",
+    "robots-parser": "3.0.1",
+    "yaml": "2.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/pg": "8.23.1",
+    "@types/pg-copy-streams": "1.2.5",
+    "tsx": "4.23.15",
+    "typescript": "^5",
+    "vitest": "5.1.0"
+  }
+}

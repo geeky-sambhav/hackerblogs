@@ -1,0 +1,73 @@
+# Areas for browsing. A piece gets 1–3 areas from keyword hits (whole words,
+# lowercase) in: curator/page tags and section (weight 3), URL path (2),
+# title and description (1). `publications` adds a default (weight 2).
+# Pieces with no hits go to "miscellany".
+areas:
+  - slug: science
+    name: Science
+    description: Physics, biology, chemistry, space and the people who do science.
+    keywords: [science, physics, biology, chemistry, astronomy, space, universe, cosmology, evolution, genetics, genes, dna, species, scientists, scientist, quantum, mathematics, math, mathematician, particle, nasa, telescope, experiment, research, fossil, dinosaurs, mars, moon, scientific, biologist, physicist, chemist, neuroscience, study, studies, statistics, probability, climate science, geology, energy, nuclear, solar, battery, batteries]
+    publications: [quanta-magazine, nautilus, gwern]
+  - slug: technology
+    name: Technology
+    description: Computers, software, the internet and the companies that build them.
+    keywords: [tech, technology, software, programming, programmer, programmers, code, coding, computer, computers, computing, internet, web, silicon valley, startup, startups, google, apple, facebook, microsoft, amazon, ai, artificial intelligence, algorithm, algorithms, robots, robot, hackers, hacker, hacking, crypto, bitcoin, engineering, engineers, data, privacy, cybersecurity, software engineering, developer, developers, open source, linux, unix, web, browser, smartphone, iphone, compiler, database, security, encryption, surveillance, net neutrality, silicon, semiconductor, chips, video game, social media, twitter, facebook, youtube, wikipedia, email]
+    publications: [dan-luu]
+  - slug: business-and-economics
+    name: Business & Economics
+    description: Money, markets, work and how companies rise and fall.
+    keywords: [business, economics, economy, economist, money, finance, financial, markets, market, wall street, banks, banking, investing, investors, company, companies, ceo, capitalism, trade, labor, jobs, work, wealth, billionaire, inequality, retail, industry, founder, founders, venture, venture capital, vc, investor, startups, product, management, manager, managers, career, careers, productivity, salary, salaries, negotiation, fundraising, growth, strategy, monopoly, pricing]
+    publications: [paul-graham]
+  - slug: politics-and-society
+    name: Politics & Society
+    description: Power, policy, law and the way we live together.
+    keywords: [politics, political, government, policy, democracy, election, elections, congress, president, law, laws, supreme court, immigration, race, racism, civil rights, inequality, society, social, class, education, schools, poverty, housing, cities, city, urban, guns, gun, media, journalism, journalists, press, culture war, free speech, censorship, prejudice, gender, women, men, feminism, religion and politics, government surveillance, regulation, bureaucracy, corruption, community]
+  - slug: history
+    name: History
+    description: How we got here, from ancient worlds to the recent past.
+    keywords: [history, historical, historian, ancient, medieval, century, empire, archaeology, archaeologists, civil war, world war, wwii, ww2, revolution, cold war, colonial, 19th century, 20th century]
+  - slug: crime-and-justice
+    name: Crime & Justice
+    description: Murders, heists, cons, courts and prisons.
+    keywords: [crime, crimes, criminal, murder, murders, killer, police, cops, prison, prisons, jail, court, courts, trial, justice, fraud, con, con man, scam, heist, theft, stolen, detective, fbi, mafia, cartel, drug, drugs, death row, wrongful]
+  - slug: arts-and-culture
+    name: Arts & Culture
+    description: Music, film, television, art, design and pop culture.
+    keywords: [arts, art, artist, artists, music, musician, band, songs, album, movies, movie, film, films, hollywood, tv, television, movies-and-tv, theater, theatre, comedy, design, architecture, photography, photographer, painting, museum, culture, celebrity, games, video games, fashion]
+  - slug: books-and-writing
+    name: Books & Writing
+    description: Literature, language, writers and reading.
+    keywords: [books, book, literature, literary, novel, novels, novelist, writer, writers, writing, poet, reading, readers, publishing, language, languages, words, criticism, critic, essay, essays, author, authors]
+  - slug: philosophy-and-religion
+    name: Philosophy & Religion
+    description: Ideas, ethics, faith and the meaning of it all.
+    keywords: [philosophy, philosopher, philosophers, ethics, moral, morality, religion, religious, faith, god, church, christian, christianity, islam, buddhism, spiritual, meaning, consciousness, free will, mind, stoicism, metaphysics, rationality, reason, truth, beliefs, belief, utilitarianism, effective altruism, wisdom, virtue]
+    publications: [aeon, slate-star-codex, astral-codex-ten]
+  - slug: mind-and-behavior
+    name: Mind & Behavior
+    description: Psychology, the brain, habits and how people think.
+    keywords: [psychology, psychologist, psychologists, brain, brains, neuroscience, neuroscientist, behavior, behaviour, memory, emotions, happiness, attention, intelligence, personality, cognitive, habits, decision, decisions, sleep, dreams, loneliness, learning, creativity, motivation, procrastination, focus, thinking, expertise, genius, talent, introvert, boredom, willpower]
+  - slug: health-and-medicine
+    name: Health & Medicine
+    description: Bodies, illness, doctors and the health system.
+    keywords: [health, medicine, medical, doctor, doctors, hospital, hospitals, disease, diseases, cancer, illness, patients, patient, surgery, surgeon, mental health, depression, addiction, opioids, pandemic, virus, vaccine, vaccines, aging, death, dying, pharmaceutical, nutrition]
+  - slug: nature-and-environment
+    name: Nature & Environment
+    description: Animals, wild places and a changing planet.
+    keywords: [nature, environment, environmental, climate, climate change, global warming, animals, animal, wildlife, birds, ocean, oceans, sea, forest, forests, trees, plants, conservation, extinction, ecology, weather, hurricane, wildfire, fish, whales, insects, dogs]
+  - slug: war-and-world
+    name: War & World
+    description: Conflict, diplomacy and dispatches from around the globe.
+    keywords: [world, war, wars, military, soldiers, army, conflict, terrorism, terrorist, isis, iraq, afghanistan, syria, ukraine, russia, china, north korea, iran, israel, africa, middle east, refugees, foreign, diplomacy, nuclear, spies, spy, cia]
+  - slug: sports-and-adventure
+    name: Sports & Adventure
+    description: Athletes, games, expeditions and survival.
+    keywords: [sports, sport, athlete, athletes, football, nfl, basketball, nba, baseball, soccer, tennis, golf, boxing, olympics, running, marathon, climbing, mountaineering, everest, adventure, expedition, survival, outdoors, sailing, cycling, chess]
+  - slug: lives-and-personal
+    name: Lives & Personal Essays
+    description: Profiles, memoir, family, love and loss.
+    keywords: [profile, profiles, memoir, personal essay, family, father, mother, parents, children, kids, marriage, love, grief, friendship, childhood, son, daughter, life, lives, obituary, sex, relationships]
+  - slug: food-and-travel
+    name: Food & Travel
+    description: Eating, cooking and going places.
+    keywords: [food, cooking, cook, chef, chefs, restaurant, restaurants, eating, recipe, wine, beer, coffee, travel, trip, journey, tourism, tourist, hotels]

@@ -1,0 +1,1 @@
+ALTER TABLE "pieces" ADD COLUMN "is_article" boolean;

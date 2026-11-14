@@ -1,0 +1,23 @@
+# Community-signal thresholds (see packages/shared/src/score.ts for the rules).
+thresholds:
+  hnStoryPoints: 50      # an HN story counts as a recommendation at >= 50 points (also covers reposts)
+  hnBigPoints: 300       # a "big" month: an HN story with >= 300 points
+  commentOwnText: 100    # a comment counts when it has >= 100 chars of its own text
+  redditDefaultPoints: 50
+  redditBigPoints: 1000
+
+# Reddit posts are read from Arctic Shift (posts only: comment search is not
+# available at usable speed). minScore is the per-subreddit post threshold.
+subreddits:
+  - { name: TrueReddit, minScore: 50 }
+  - { name: longreads, minScore: 20 }
+  - { name: indepthstories, minScore: 20 }
+  - { name: Foodforthought, minScore: 50 }
+  - { name: TrueLit, minScore: 20 }
+  - { name: philosophy, minScore: 100 }
+  # r/history (≈323k posts) and r/books (≈930k posts) are left out by default:
+  # mostly discussion/image posts, and paging through them adds ~5 hours for few
+  # long-read links. Re-add them here if you want their signal.
+  # - { name: history, minScore: 100 }
+  # - { name: books, minScore: 100 }
+  - { name: slatestarcodex, minScore: 30 }

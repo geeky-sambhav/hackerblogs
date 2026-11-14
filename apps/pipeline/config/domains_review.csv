@@ -1,0 +1,734 @@
+domain,status,candidates,publication,sample_titles
+theguardian.com,include,1485,The Guardian,"Uber employees 'spied on ex-partners, politicians and Beyoncé' (2016) | Half of England is owned by less than 1% of the population: Research by author reveals corporations and aristocrats are the biggest landowners | Guardian and Observer Style Guide"
+arstechnica.com,review,761,,Kansas City subsidises Google Fiber | Apple clarifies security update policy: Only the latest OSes are fully patched | T-Mobile users thought they had a lifetime price lock–guess what happened next
+theatlantic.com,include,749,The Atlantic,"This Overlooked Variable Is the Key to the Pandemic | The Lost Civilization of Dial-Up Bulletin Board Systems | The Surprising Failures of 12 Steps: How a pseudoscientific, religious organization birthed the most trusted method of addiction treatment"
+npr.org,review,665,,California Bill Clears Path for Ex-Inmates to Become Firefighters | Are Hunter-Gatherers The Happiest Humans To Inhabit Earth? | Facial Recognition And Beyond: Journalist Ventures Inside China's 'Surveillance State'
+wired.com,include,645,Wired,The Rise and Fall of Bitcoin | The Epic Story of Dropbox’s Exodus from the Amazon Cloud Empire | Elon Musk reveals his awkward dislike of mass transit
+washingtonpost.com,review,583,,The rise of fake engine noise | Wikipedia has a ton of money. So why is it begging you to donate yours? | The Black Budget - $52.6 billion
+theverge.com,review,573,,Getty Images sues Stable Diffusion in the US for copyright infringement | The myth of pinch-to-zoom | Early 'Jony' iPhone 4 render shows Sony design influence
+bbc.com,review,564,,BBC News Pidgin | Iranian women – before and after the Islamic Revolution | Life next to 199 data centres
+nature.com,review,564,,UV B LEDs More Effective in Producing Vitamin D3 in Human Skin (2017) | SARS-CoV-2 reservoir in post-acute sequelae of Covid-19 (PASC) | The risk of round numbers and sharp thresholds in clinical practice
+newyorker.com,include,533,The New Yorker,Rediscovering One of the Wittiest Books Ever Written | Life Lessons from Goethe | How Jeff Bezos Brought Down the Washington Post
+forbes.com,review,442,,"Mysterious $15,000 'GrayKey' Promises to Unlock iPhone X for the Feds | Unsecured AWS S3 buckets results in leak of 120M American's personal info | Former Google CEO Launched a Company with His Girlfriend. It's Not Going Well"
+techcrunch.com,review,437,,"Meta drops lawsuit against web-scraping firm that sold Instagram records | Despite promises, cell carriers are still selling your real-time location data | The Majority Of Today’s App Businesses Are Not Sustainable"
+reuters.com,review,431,,"Nuclear energy too slow, too expensive to save climate: report | U.S. corn-based ethanol worse for the climate than gasoline, study finds | US ad revenue at Musk's X declined each month since takeover – data"
+bloomberg.com,review,425,,"Wind Turbine Blades Can’t Be Recycled, So They’re Piling Up in Landfills (2020) | The SEC Wants to See More Phones | Elon Musk’s Space Dream Almost Killed Tesla"
+gnu.org,review,367,,Would Linux have achieved the same success if there had been no GNU? ( | How the Swedish Pirate Party Platform Backfires on Free Software | GNU Datamash
+w3.org,review,298,,Verifiable Credentials Data Model v1.1 (2022) | First web browser was on a NeXT computer | Payment Request API – W3C Working Draft 05 July 2016
+cnbc.com,review,290,,"DOJ files second antitrust suit against Google, seeks to break up ad business | The Reason Health Care Costs So Much More in the US | Eric Schmidt predicts that Internet will bifurcate between China and USA"
+eff.org,review,274,,"Canary Watch, One Year Later | The Loading Screen Game Patent Finally Expires | Digital Privacy at the U.S. Border"
+nytimes.com,include,273,The New York Times Magazine,The Holocaust Story I Said I Wouldn’t Write | What Pakistan Knew About Bin Laden | So You Think You Can Be a Hair Braider? (2012)
+investopedia.com,review,270,,Pump and Dump | Who Killed Sears? Fifty Years on the Road to Ruin | Who Owns Student Loan Debt?
+vox.com,review,263,,"Prohibition was primarily the work of one pressure group | California high-speed rail and the American infrastructure tragedy, explained | This is why you shouldn’t believe that exciting new medical study"
+ourworldindata.org,review,259,,"How does the land use of different electricity sources compare? | Plant-based diet would reduce agricultural land use from 4 to 1B hectares | Life expectancy vs. health expenditure, 1970 to 2015"
+pewresearch.org,review,254,,How people around the world view AI | Two-thirds of Americans support marijuana legalization | What the data says about crime in the U.S.
+blog.cloudflare.com,review,251,,Designing Edge Servers with Arm CPUs to Deliver 57% More Performance per Watt | Protecting Against a Man-in-the-Middle Attack on Origin Traffic | How to stop running out of ephemeral ports and love long-lived connections
+openai.com,review,248,,MuseNet | Better Language Models and Their Implications | AI and Compute (Updated)
+fred.stlouisfed.org,review,246,,A graph of US money supply since 1975 | Real Residential Property Prices for United States | U.S. debt-to-GDP ratio reaches 123%
+businessinsider.com,review,241,,"The Making of Tesla: Invention, Betrayal, and the Birth of the Roadster | Zuckerbergs im's from college for those that missed it | The Insane Law That Lets Authorities Read Any Email Over 180 Days Old"
+paulgraham.com,include,241,Paul Graham,Female Founders | What Microsoft is this the Altair Basic of? | What You'll Wish You'd Known (2005)
+lwn.net,review,234,,Shedding old architectures and compilers in the kernel | A remote code execution vulnerability in qmail | The Managed Runtime Initiative
+scientificamerican.com,review,224,,U.S. Science Is in Chaos | Transcranial Stimulation Shows Promise in Speeding Up Learning | Israel Proves the Desalination Era Is Here (2016)
+wsj.com,review,211,,The ACLU Retreats from Free Expression | What’s in a Hedcut? Depends How It’s Made | How Amazon Wins: By Steamrolling Rivals and Partners
+slatestarcodex.com,include,208,Slate Star Codex,"Toward A Predictive Theory Of Depression | God Help Us, Let’s Try To Understand Friston On Free Energy | Meditations on Moloch"
+lesswrong.com,review,196,,"Evolution is bodiless. Omnipresent in Nature, immanent in the fall of every leaf. Vast as a planet's surface. Billions of years old. Itself unmade, arising naturally from the structure of physics. Doesn't that all sound like something that might have been said about God? | Some arguments against a land value tax | Steelmanning"
+propublica.org,include,196,ProPublica,Facebook Moves to Block Ad Transparency Tools | Drive-By Scanning: Officials Expand Use/Dose of Radiation for Security Screening | Health Insurers Make It Easy for Scammers to Steal Millions
+tools.ietf.org,review,190,,RFC3514: The Evil Bit | Rfc8259: JSON Data Interchange Format – 12. Security Considerations | Base 64 Encoding with URL and Filename Safe Alphabet
+slate.com,review,182,,What it was like to be a scientist in Jeffrey Epstein’s circle | The Noble Lies of Covid-19 | The mysterious Japanese company behind the world’s best zippers (2012)
+datatracker.ietf.org,review,181,,"Deprecating the ""X-"" Prefix and Similar Constructs in Application Protocols | Nokia discloses their patents on VP8/WebM | S-Expressions"
+bbc.co.uk,review,178,,"Free Will – In Our Time podcast | William Gibson says the future is right here, right now | Horizon – 1977-1978: Now The Chips Are Down"
+plato.stanford.edu,review,175,,Stanford Encyclopedia: Michel Foucault | Bayesian Epistemology (2022) | The Chinese Room Argument
+cnn.com,review,172,,Twinkie diet helps nutrition professor lose 27 pounds | US government wiretapped former Trump campaign chairman | Samsung's folding screen tech has been stolen and sold to China
+theintercept.com,review,170,,"Glenn Greenwald : Western Elites stomped on the welfare of millions of people with inequality and corruption reaching extreme levels. Instead of acknowledging their flaws, they devoted their energy to demonize their opponents. We now get Donald Trump, The Brexit, and it could be just the beginning | Leaked Meta Rules: Users Are Free to Post ""Mexican Immigrants Are Trash"" | The US Government's secret plans to spy for American Corporations 2014"
+microsoft.com,review,164,,Microsoft – Open Weights and American AI Leadership | VASA-1: Lifelike audio-driven talking faces generated in real time | Windows 10 ISO Download Tool
+theregister.com,review,156,,"AI bug reports went from junk to legit overnight, says Linux kernel czar | Wi-Fi devices will become object sensors by 2024 under planned 802.11bf standard | Red Hat strikes a crushing blow against RHEL downstreams"
+merriam-webster.com,review,155,,We Added 690 New Words to the Dictionary for September 2023 | What's Going on with ‘Nonplussed’? (2017) | A Perfectly Cromulent Word (2016)
+nbcnews.com,review,148,,Federal regulators warn of risks to firefighters from electrical vehicle fires | Elon Musk says DOGE probably won't find $2T in federal budget cuts | Former Twitter employee sentenced to and3Y in prison for spying for Saudi Arabia
+sqlite.org,review,148,,SQLite Archive Files | SQLite Begin Concurrent | SQLite Code of Ethics
+blog.mozilla.org,review,147,,HolyJit: A New Hope | Mozilla expands extension support for Firefox for Android | Hardening Firefox with Anthropic's Red Team
+apnews.com,review,146,,Elon Musk creates confusion about IRS' Direct File – but it's still available | EPA: 'Forever chemicals' pose risk even at low levels | Nearly all Covid deaths in US are now among unvaccinated
+science.org,review,146,,Exceeding 1.5°C global warming could trigger multiple climate tipping points | How many ants live on Earth? (2022) | Nonreplicable publications are cited more than replicable ones
+devblogs.microsoft.com,review,143,,Regex Performance Improvements in .NET 5 | Why isn't my time zone highlighted on the world map? | Ready-to-install Python shipped in Windows 10 May 2019 update
+postgresql.org,review,139,,PostgreSQL JIT Compilation | PostgreSQL 16 Beta 2 Release Notes | Show HN: Postgresql.org suddenly gone to poor dark mode
+simonwillison.net,review,139,,CaMeL offers a promising new direction for mitigating prompt injection attacks | The interesting ideas in Datasette (2018) | The surprise deprecation of GPT-4o for ChatGPT consumers
+forums.anandtech.com,exclude,137,,"Jim Keller Resigns from Intel, Effective Immediately | Qualcomm Announces Snapdragon 8 Gen 1: Moving to TSMC for More Speed | The Apple A13 SoC: Lightning and Thunder"
+en.cppreference.com,review,133,,C++ operator precedence (e.g. && gets evaluated before ||) | C++ Alternative Operator Representations | C++ Modules
+macrotrends.net,review,132,,"S&P 500 to Gold Ratio | Federal Funds Rate – 62 Year Historical Chart | According to Macrotrends, we are still in a recession"
+peps.python.org,review,130,,PEP 690 – Lazy Imports | PEP 0448 – Additional Unpacking Generalizations | PEP 3113 – Removal of Tuple Parameter Unpacking (2007)
+latimes.com,review,129,,"A link between air pollution and Alzheimer’s disease | Apple works with China but not the FBI (2016) | California invests in battery energy storage, leaving rolling blackouts behind"
+schneier.com,review,125,,"New NSA Leak Shows MITM Attacks Against Major Internet Services | No, RSA Is Not Broken | Crypto-Gram Mailing List"
+spectrum.ieee.org,review,124,,"Not Your Father’s Analog Computer | The Strange Birth and Long Life of Unix | Google Self-Driving Car Will Be Ready Soon for Some, in Decades for Others"
+gwern.net,include,123,Gwern,Blackmail fail | Complexity No Bar to AI | ‘Story Of Your Life’ Is Not A Time-Travel Story
+quantamagazine.org,include,123,Quanta Magazine,Proof Assistant Makes Jump to Big-League Math | Pilot-wave quantum theory gains experimental support | Wormhole Experiment Called into Question
+time.com,review,122,,Why Exercise Won't Make You Thin | Facebook is rejecting a request to help with Myanmar genocide investigation | Experts Say Lobbying Skewed the U.S. Dietary Guidelines
+astralcodexten.com,include,120,Astral Codex Ten,How Did You Do on the AI Art Turing Test? | Review: Alpha School | Turing Test
+fortune.com,review,119,,"Mercedes becomes the first automaker to sell autonomous cars in the U.S. | To Understand the Benefits of Tax Reform, Start by Understanding Apple's Taxes | The U.S. grid is so weak, the AI race may be over"
+joelonsoftware.com,review,115,,Seven steps to remarkable customer service (2007) | Building Communities with Software (2003) | Platform vendors
+news.gallup.com,review,114,,New high of 45% in US identify as political independents | More Than 750M Worldwide Would Migrate If They Could | U.S. Adults' Estimates of Covid-19 Hospitalization Risk
+politico.com,review,114,,The Anti-Democratic Worldview of Steve Bannon and Peter Thiel | The Pentagon Is Freaking Out About a Potential War with China | Interior cancels largest solar project in North America
+qz.com,review,114,,Stacking concrete blocks is a surprisingly efficient way to store energy | What it took for SpaceX to become a serious space company [2014] | Google accidentally deleted a $125B pension fund's account
+anthropic.com,review,113,,The Anthropic Economic Index | Effective harnesses for long-running agents | Anthropic: Tracing the thoughts of an LLM
+gcc.gnu.org,review,110,,"GCC 15, now with C++ modules support | Installing GCC: Building | GCC is C++17 Complete"
+tradingeconomics.com,review,110,,"Lithium Prices | United States Unemployment Rate | Thermal coal price triples in under a year, approaching all time high"
+go.dev,review,109,,"Go Slices: Usage and Internals | Defer, Panic, and Recover (2010) | Go language PATENTS file"
+pbs.org,review,109,,FRONTLINE: Hunting the Nightmare Bacteria | Great interviews@NerdTV | PBS: Secret history of the credit card
+smithsonianmag.com,review,107,,Cats Are Surprisingly Bad at Killing Rats | “Reading Rainbow” was created to combat summer reading slumps | Blue versus Green: Rocking the Byzantine Empire
+nymag.com,include,106,New York Magazine,Lyft Reinvents the Bus | Why Parents Hate Parenting | Why Is Infrastructure So Expensive to Build in New York?
+who.int,review,106,,Rabies | World Health Organization: Household air pollution | Flattening the Infodemic Curve
+cbsnews.com,review,103,,The Gender Pay Gap is a Complete Myth | Ex-DEA agent: Opioid crisis fueled by drug industry and Congress | Pepsi's Nonsensical Logo Redesign Document (2009)
+coursera.org,review,101,,'Computer Networks' course on Coursera starts today | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera course on game development using Python (first homework due tomorrow)
+martinfowler.com,review,100,,Anemic Domain Model | Technical Debt Quadrant | How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh
+man7.org,review,97,,Kernel_lockdown(7) – Linux Manual Page | VDSO – overview of the virtual ELF dynamic shared object | man 7 sched
+hbr.org,review,96,,The relationship between social media use and well-being | What Is Disruptive Innovation? | How to Hire
+tesla.com,review,96,,Tesla launches $199/mo FSD subscription | Model 3 achieves the lowest probability of injury of any car tested by NHTS | Tesla Safety Score Beta
+pnas.org,review,95,,A scalable pipeline for designing reconfigurable organisms (2020) | Extraneous factors in judicial decisions (2011) | Life and death during the Great Depression
+aeon.co,include,94,Aeon,"The New Mind Control – The internet has spawned subtle forms of influence | Dark Leviathan - The Silk Road might have started as a libertarian experiment, but it was doomed to end as a fiefdom run by pirate kings | On freedom and the limits of agency: the philosophy of Fichte"
+blog.google,review,94,,Try Google's Bard | Applying BERT models to Search | Updates to Location History and new controls coming soon to Maps
+git-scm.com,review,94,,Git-bisect – Use binary search to find the commit that introduced a bug | Git-config – Get and set repository or global options | Git on the Server
+mitpress.mit.edu,review,92,,Category Theory for the Sciences [Open Access Textbook] | Structure and Interpretation of Computer Programs | Engineering a Safer World
+zdnet.com,review,92,,Asking Apple for all my data | I spent $3k on a Samsung Smart TV and all I got were ads and unwanted content | Mozilla extends its Google search deal
+tomshardware.com,review,90,,CPU Benchmark Hierarchy: All Intel and AMD CPUs Ranked Win 10 and 11 DDR4 DDR5 | Realtek's $10 tiny 10GbE NIC will hit motherboards soon | Nvidia Makes 1k% Profit on H100 GPUs
+catb.org,review,89,,The Story of Mel (1983) | A Story About ‘Magic' | Security Wrappers and Bernstein Chaining
+f-droid.org,review,89,,RedReader — An unofficial reddit client for Android | Public Statement on Neutrality of Free Software | F-Droid – alternative to Google Play store
+rfc-editor.org,review,88,,Hybrid Public Key Encryption | RFC 2100: The Naming of Hosts | RFC 8785 JSON Canonicalization Scheme (JCS)
+ft.com,review,87,,Britain and the US are poor societies with some rich people | Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions | How high-frequency trading hit a speed bump
+github.blog,review,87,,NPM Package Provenance | Video uploads now available across GitHub | Quantifying GitHub Copilot’s impact on developer productivity and happiness
+electrek.co,review,86,,"Tesla dissolves its PR department | Tesla reports another Robotaxi crash | Tesla Model Y is now the world's best-selling car, first EV to do so"
+technologyreview.com,review,86,,A Twitter engineer says it will break in the coming weeks | Why Self-Driving Cars Must Be Programmed to Kill | Watson Hype: A Reality Check for IBM’s AI Ambitions
+worldpopulationreview.com,review,85,,Something I found a little surprising: California has the 6th lowest average IQ of any state in the US | Countries that Recognize Taiwan 2023 | Average IQ by Country 2026
+acoup.blog,review,84,,So You Want To Go To Grad School (in the Academic Humanities)? | The Status Quo Coalition | Rome: Decline and Fall? Part III: Things
+daringfireball.net,review,84,,Broken Windows | Bad Dye Job | Apple Responds to Dash Controversy
+rollingstone.com,include,84,Rolling Stone,U.S. Fossil Fuel Subsidies Exceed Pentagon Spending | The Great College Loan Swindle | Farms and data centers contribute to a water pollution crisis in Eastern Oregon
+thelancet.com,review,84,,"Endoscopist deskilling risk after exposure to AI in colonoscopy | An appeal for an objective, open, transparent debate re: the origin of Covid-19 | The efficacy and safety of cannabinoids for the treatment of mental disorders"
+danluu.com,include,83,Dan Luu,How web bloat impacts users with slow devices | How misaligning data can increase performance by reducing cache misses (2014) | Please Stop Blocking Everything but Googlebot in Robots.txt
+vanityfair.com,include,83,Vanity Fair,"The Devil at 37,000 Feet (2009) | “The Clock Is Ticking”: Inside the Worst U.S. Maritime Disaster in Decades | Peter Thiel Wants to Inject Himself with Young People's Blood (2016)"
+jetbrains.com,review,82,,Meta Programming System | Python Developers Survey 2020 Results | JetBrains' State of Developer Ecosystem Report 2024
+cbc.ca,review,80,,"Twins get different results when they put 5 ancestry DNA kits to the test | Medicine Hat becomes the first city in Canada to eliminate homelessness | Recycling was a lie to sell more plastic, recycling industry veteran says"
+en.bitcoin.it,review,79,,CoinJoin: Trustless combining of multiple payments into a single transaction | Proof of Stake: An energy efficient alternative to Bitcoin mining (PoW) | Bitcoin isn't anonymous
+gizmodo.com,review,79,,How Apple Lost the Next iPhone | The Apple Store Blueprint: Genius Training or Psychological Manipulation Script? | Leaked Documents Show OpenAI Has a Clear Definition of 'AGI'
+money.cnn.com,review,79,,Microsoft has lost $9 billion on Bing | Uber rival accuses car service of dirty tactics | 6 in 10 Americans don't have $500 in savings
+quora.com,review,78,,Why are software development task estimations regularly off by a factor of 2-3? | Quora Programming Challenges | What goes into making an OS to be Unix compliant certified?
+snopes.com,review,78,,Did Trump Administration Fire the US Pandemic Response Team? | Parameters of the Space Shuttle based on the size of a horse's ass. Not. | The Unsolvable Math Problem
+theconversation.com,review,78,,The World’s Oldest Story? | A million new SpaceX satellites will destroy the night sky | Stable pseudonyms create a more civil environment than real names: study (2021)
+vice.com,review,78,,"The Confidential Memo at the Heart of the Global Financial Crisis | An AI-Generated Artwork Won First Place at a State Fair Fine Arts Competition | Sierra Was Captured, Then Killed, by an Accounting Fraud"
+webkit.org,review,77,,Concurrent JavaScript: It can work | Better typography with text-wrap pretty | Privacy-Preserving Ad Click Attribution for the Web
+infoq.com,review,76,,The Datomic Information Model | Static Analyzer Rudra Found over 200 Memory Safety Issues in Rust Crates | Fine-Grained Sandboxing with V8 Isolates (2019)
+cloudflare.com,review,75,,Cloudflare Content Moderation Policy | Cloudflare Analytics | The DNSSEC Root Signing Ceremony
+blog.codinghorror.com,review,73,,"Web Discussions: Flat by Design (2012) | Discussions: Flat or Threaded? (2006) | Mort, Elvis, Einstein, and You (2007)"
+eur-lex.europa.eu,review,73,,Artificial Intelligence Act (EU) | EU Digital Markets Act (English Full Text) | General Data Protection Regulation – Document
+code.visualstudio.com,review,71,,"Optimizations in Syntax Highlighting, a Visual Studio Code Story | VSCode silently opts you in to data collection | Visual Studio Code has a secret Zen mode"
+kernel.org,review,71,,Volatile Considered Harmful | Linux Magic System Request Key Hacks | User Mode Linux
+krebsonsecurity.com,review,71,,"Ubiquiti Developer Charged with Extortion, Causing 2020 “Breach” | Hacker in Snowflake extortions may be a U.S. soldier | Dell to Customers: Report 'Service Tag' Scams"
+quoteinvestigator.com,review,71,,"“It’s Difficult to Make Predictions, Especially About the Future” | People TendOverestimating One Year Progress and Underestimating Ten Years' | ""My Customers Would Have Asked For a Faster Horse"""
+phoronix.com,review,70,,Firefox 109 vs. Chrome 109 Browser Benchmarks on Ubuntu Linux | The Linux Kernel Is Now VLA (Variable-Length Array) Free | AMD Reportedly Allows Disabling PSP Secure Processor with Latest AGESA
+telegraph.co.uk,review,70,,"The devastating memo that plunged the BBC into crisis | McDouble is 'cheapest and most nutritious food in human history' | Fasting for three days can regenerate entire immune system, study finds (2014)"
+aclu.org,review,68,,"What Is Censorship? – American Civil Liberties Union | The US Government's 100-Mile “Border” Zone – Map | Flock Now Using AI to Report to Police If Our Movement Patterns Are ""Suspicious"""
+openbsd.org,review,68,,Arc4random HackFest Slides by Theo de Raadt | Hardware Wanted by OpenBSD developers | Pledge() – a new mitigation mechanism in OpenBSD
+openjdk.org,review,68,,JEP 467: Markdown Documentation Comments | JEP 430: String Templates (Preview) | Automatic differentiation of Java code using Code Reflection
+chromium.org,review,67,,Blink Launch Process: Deprecation | ‎Chromium Security‎: Site Isolation | Steam on ChromeOS Beta
+fivethirtyeight.com,review,67,,Lionel Messi Is Impossible (2014) | What We Know About Voter ID Laws | A focus on elite schools ignores the issues most college students face
+independent.co.uk,review,67,,The dark side of Dubai | Nuclear battery produces power for 50 years without needing to charge | What-aboutery
+tailscale.com,review,67,,"How tailscale creates virtual shared networks | IPv4, IPv6, and a sudden change in attitude (2020) | SSO Tax, Cut"
+fastcompany.com,review,66,,How the Bloomberg Terminal Made History and Stays Relevant | Women Entrepreneurs Created a Fake Male Cofounder to Dodge Startup Sexism | They Write the Right Stuff (1996)
+hackaday.com,review,66,,Exploring the Raspberry Pi 4 USB-C Issue IN-Depth | TV detector vans once prowled the streets of England | Hackable $20 Modem Combines LTE and Pi Zero W2 Power
+debian.org,review,65,,"From trixie, armel is no longer supported as a regular architecture | Guide for Debian Maintainers | Debian vote: Init systems and systemd"
+jamanetwork.com,review,65,,"The Association Between Income and Life Expectancy in the US, 2001-2014 | Outcomes of Cardiovascular MRI in Patients Recently Recovered from Covid-19 | Effect of Blood Donations on Perfluoralkyl and Polyfluoroalkyl in Firefighters"
+matrix.org,review,65,,Clients for the Matrix Protocol | Welcoming Rocket.Chat to Matrix | Status.im puts $5M into Matrix.org to fuel FOSS decentralised comms
+platform.openai.com,review,65,,OpenAI Tokenizer | Free GPT 5.6 Terra and Luna (2.5M/day) & 250k Sol – free experiments | OpenAI: Batch API
+brookings.edu,review,64,,Thirteen Economic Facts about Social Mobility and the Role of Education | Rules Poor Teens Follow to Join the Middle Class (2013) | The Bad News About the News - Brookings Institution
+hacks.mozilla.org,review,64,,Pyodide: Bringing the scientific Python stack to the browser | Warp: Improved JavaScript performance in Firefox 83 | WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95
+iea.org,review,64,,The world’s top% of emitters produce over 1000 times more CO2 than the btm 1% | Mineral requirements for clean energy transitions | Global CO2 Emissions in 2019
+9to5mac.com,review,63,,"Goldman Sachs has lost billions on Apple Card, but it's optimistic | Apple announces significant price increases for MacBooks, iPads, more | iOS 16 has hidden system to restrict specific feature based on user location"
+pragprog.com,review,63,,Modern Perl Fourth Edition | Programming Elixir: Functional – Concurrent – Pragmatic – Fun | The Definitive ANTLR4 Reference
+worldometers.info,review,63,,Covid-19 stopped killing people | Worldometer CoVir Update [Live] | Worldwide Cases and Deaths
+epi.org,review,62,,"CEO pay declined in 2023: But it has soared 1,085% since 1978 compared with a 24% rise in typical workers’ pay | CEO pay skyrocketed 1,460% since 1978: CEOs paid 399 times as much vs. worker | Wage Stagnation in Nine Charts (2015)"
+ocw.mit.edu,review,62,,"Video lectures on advanced robotics on OCW | Build a Radar System with Range Sensing, Doppler, and Synthetic Aperture Imaging | Free MIT Online Class teaches CS fundamentals using Python"
+facebook.github.io,review,61,,Zstandard – Real-time data compression algorithm | GraphQL Working Draft | GraphQL Introduction
+fly.io,review,61,,"Did Semgrep Just Get a Lot More Interesting? | Skip the API, Ship Your Database | Litestream VFS"
+health.harvard.edu,review,61,,The long-term cognitive effects of Covid-19 | The truth about fats | Impossible and Beyond: How healthy are these meatless burgers?
+journals.plos.org,review,61,,Dance training superior to physical exercise in inducing brain plasticity (2018) | Why Most Published Research Findings Are False (2005) | Digital Social Norm Enforcement: Online Firestorms in Social Media (2016)
+kubernetes.io,review,61,,Operator Pattern | Kubernetes Containerd Integration Goes GA | Don't Panic: Kubernetes and Docker
+motherjones.com,review,61,,"Obama's War on Whistleblowers | ""Gangbang Interviews"" and ""Bikini Shots"": Silicon Valley’s Brogrammer Problem | Rigged: How Voter Suppression Threw Wisconsin to Trump"
+folklore.org,review,60,,Switcher (2004) | The Original Macintosh: Calculator Construction Set | Round Rects Are Everywhere
+hackage.haskell.org,review,60,,Tardis Monad Transformer | Defer Haskell type errors to runtime: new GHC 7.6 developers' flag | AccursedUnutterablePerformIO
+marketplace.visualstudio.com,review,60,,"Show HN: Magit for VSCode (Alpha) | SQL Server Extension (Preview) Now Available for Visual Studio Code | Code GPT Extension for VSCode, Using OpenAI API"
+mozilla.org,review,60,,The State of Mozilla: 2016 Annual Report | 15 Years of Mozilla | Firefox Privacy Notice
+nber.org,review,60,,"The Emerging Market for Intelligence: Pricing, Supply, and Demand for LLMs | Working from Home, Worker Sorting and Development | The Impact of Zoning on Housing Affordability (2002)"
+newrepublic.com,review,60,,"The Fake Gay Marriage Website, the Real Straight Man, and the Supreme Court | Bill Gates Impeded Global Access to Covid Vaccines | Inside Stephen Miller’s Dark Plot to Build a MAGA Terror State"
+righto.com,review,60,,"Restoring YC's Xerox Alto, day 1: Power supplies and disk interface | A look inside iPad chargers: pricey Apple quality versus a risky phony | Reverse engineering the ARM1 processor's microinstructions"
+backblaze.com,review,59,,Backblaze Hard Drive Stats Q2 2020 | Hard Drive Life Expectancy | Backblaze Storage Pod 5.0
+kalzumeus.com,review,59,,Patrick's greatest hits | Doing Business in Japan (2014) | Redesign: Users: Thrilled. Conversion Rates: Up. Sales: Unchanged.
+php.net,review,59,,"PHP 5.5.0's password_hash() function | PHP 5.5 is ""officially"" EOL today | History of PHP"
+99percentinvisible.org,review,58,,Curb Cuts | Thermal Delight | Future Screens are Mostly Blue
+levels.fyi,review,58,,Levels.fyi 2020 Annual Pay Report | Highest Paying Tech Companies of 2019 | Levels.fyi Salary Stream – Verified salary submissions emailed to you weekly
+media.ccc.de,review,58,,Hacking yourself a satellite – recovering BEESAT-1 [video] | Shut Up and Take My Money [video] | SS7: You have a tracking device in your pocket (2014) [video]
+politifact.com,review,58,,"Is Barack Obama correct that mass killings don't happen in other countries? | The Obameter: Tracking Obama's Campaign Promises | California has the USA’s highest poverty rate, when factoring in cost-of-living"
+axios.com,review,57,,93% of U.S. households' stock market wealth is held by the top 10% | Elon Musk to reinstate X account of white nationalist Nick Fuentes | California's new age rules for sites and apps raise a ruckus
+buzzfeednews.com,review,57,,"After The US Election, Key People Are Leaving Facebook And Torching The Company In Departure Notes | FinCEN Files Show Criminals Moved Billions as Banks Watched | How Saudi Arabia Infiltrated Twitter"
+msdn.microsoft.com,review,57,,Small Basic: Programming Is Fun | Install the Linux Subsystem on Windows 10 | User-agent string changes
+nejm.org,review,57,,Current Causes of Death in Children and Adolescents in the United States | Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 | First Case of 2019 Novel Coronavirus in the United States
+signal.org,review,57,,Reflections: The ecosystem is moving (2016) | The Difficulty of Private Contact Discovery | Standalone Signal Desktop
+clojure.org,review,56,,Clojure’s Approach to Identity and State (2008) | Clojure Cheatsheet | Clojure Rationale (2008)
+ifixit.com,review,56,,MacBook Pro 13“ Function Keys Late 2016 Teardown | Apple’s iPhone 14 Redesign for Repair | IFixit's Self-Repair Manifesto
+macrumors.com,review,56,,"Apple to occupy 90% of TSMC 3nm capacity in 2023 | Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links | Qualcomm Claims Snapdragon X Elite 21% Faster Than Apple's M3 Chip"
+opensource.org,review,56,,Show HN: The Open Source Definition | Meta's Llama license is still not Open Source | The SSPL Is Not an Open Source License
+security.googleblog.com,review,56,,"Chrome to distrust RapidSLL, Thawte, VeriSign, Equifax, GeoTrust issued b/f 2016 | Secure by Design: Google's Perspective on Memory Safety | Better protection against Man in the Middle phishing attacks"
+source.android.com,review,56,,WiFi MAC randomization in Android 8.0 | Android by Google – Code Style Guidelines for Contributors | Modular Kernel Requirements – Android kernels must enable kernel .config support
+benchmarksgame-team.pages.debian.net,review,55,,The Computer Language Benchmarks Game – N-Body | New Computer Language Benchmarks Game metric: time + source code size | C# beats Java in 9 out of 10 benchmarks (benchmarks game)
+nypost.com,review,55,,NYC Secretly Exports Homeless | Every song you love was written by the same two guys | Toy helicopter lops top of man’s head off
+techdirt.com,review,55,,The “Debate Me Bro” Grift: How Trolls Weaponized The Marketplace Of Ideas | You've Been Referred Here Because You're Wrong About Section 230 of the CDA | Why Are Y Combinator And Andreessen Horowitz Backing A Toolbar/Adware Installer?
+theregister.co.uk,review,55,,"Oklahoma city threatens to call FBI over 'renegade' Linux maker (2006) | Gummi bears defeat fingerprint sensors (2002) | Ballmer: ""Linux is a cancer"" (2001)"
+erlang.org,review,54,,A Brief History of the Beam Compiler (2018) | Why do we need modules at all? (2011) | Erlang Garbage Collector
+freakonomics.com,review,54,,How to Become Great at Just About Anything | Why Is the U.S. So Good at Killing Pedestrians? | Could a lottery be the answer to America’s poor savings rate? - Freakonomics Blog
+usatoday.com,review,54,,Rigged: Forced into debt. Worked past exhaustion. Left with nothing. | FBI ran website sharing thousands of child porn images | Baltimore police stopped noticing crime after Freddie Gray's death. A wave of killings followed.
+brave.com,review,53,,Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet | Introducing Brave Search | Brave Browser
+cs.cmu.edu,review,53,,The “Only” Coke Machine on the Internet | NESL – A Parallel Programming Language | Monte Carlo Geometry Processing
+data.worldbank.org,review,53,,
+ec.europa.eu,review,53,,Commission responds to cyber-attack on its Europa web platform | Payment services (PSD 2) – Directive (EU) 2015/2366 | Proposed European Data Protection reforms detailed
+letsencrypt.org,review,53,,Let's Encrypt: How It Works | Improving Resiliency and Reliability for Let’s Encrypt with ARI | We've Issued Our First IP Address Certificate
+nodejs.org,review,53,,node:sqlite available in Node.js v22.5.1 | Node-API – an API for building native Addons | Node.js 18 core ‘node:test’ module
+scottaaronson.com,review,53,,P vs. NP for Dummies | Ten Signs a Claimed Mathematical Breakthrough is Wrong | Giulio Tononi and Me: A Phi-nal Exchange
+cnet.com,review,52,,Average new car price crosses $40k in 2020 and that's nuts | ​Mystery startup from ex-Mozilla CEO aims to go where tech titans won't | Mozilla CEO: Gay-marriage firestorm could hurt Firefox cause (Q&A)
+codeberg.org,review,52,,Ziglings: Learn the Zig programming language by fixing tiny broken programs | Kbin: AGPL decentralized link aggregation and microblogging for the Fediverse | ngn/k
+freedesktop.org,review,52,,"Freedesktop Software | Freedesktop's website is blocked to ""protect against AI companies"" | Predictable Network Interface Names"
+nautil.us,include,52,Nautilus,"The Brain of the Greatest Solo Climber (2016) | Overcoming Us vs. Them | Overcoming Us vs. Them: ""We all have multiple dichotomies in our heads, and ones that seem inevitable and crucial can, under the right circumstances, evaporate in an instant."""
+stripe.com,review,52,,Stripe: Bitcoin Sign-up | Stripe Home (2018) | Stripe Checkout
+thehill.com,review,52,,Sen. Feinstein calls Snowden's NSA leaks an 'act of treason' | EPA suspends enforcement of environmental laws amid coronavirus | Pentagon fails 7th audit in a row but says progress made
+blogs.msdn.com,review,51,,Undefined behavior can result in time travel | What would Feynman do? | C++11/14/17 Features in VS 2015 RC
+news.mit.edu,review,51,,"Desalination system could produce freshwater that is cheaper than tap water | Converting Wi-Fi signals to electricity with new 2-D materials (2019) | For polyglots, there's something special about their native tongue"
+newsweek.com,review,51,,A Washington school board votes to drop To Kill a Mockingbird from reading list | ICE Budget Now Bigger Than Most of the Militaries | Computer Science major has seventh highest unemployment rate
+pkg.go.dev,exclude,51,,An intuitive way to format date and time
+reason.com,review,51,,Lab Leak Debacle Shows Why Banning 'Misinformation' Is a Terrible Idea | Qwerty vs Dvorak: Dvorak cooked the books | California Discourages Schools from Offering Advanced Middle School Math (2023)
+thedrive.com,review,51,,"Toyota Hydrogen Boss Explains How Fuel Cells Can Achieve Corolla Costs | Parked Teslas Keep Catching on Fire Randomly, and There's No Recall in Sight | Emails show Navy's 'UFO' patents went through significant internal review"
+visualcapitalist.com,review,51,,"The Most Valuable Companies of All Time | Datacenter Processors for AI is already 78% of Nvidia's Revenue | Visualizing the Length of the Fine Print, for 14 Popular Apps"
+harpers.org,include,50,Harper's Magazine,"The Hofmann Wobble, by Ben Lerner | The Radioactive Boy Scout (1998) | Legalize It All"
+salon.com,review,50,,The KGB’s success identifying CIA agents in the field | The geeks who saved Usenet (2002) | Hugo Chavez’s economic miracle (2013)
+thisamericanlife.org,review,50,,The Woman on the Line | Million Dollar Idea | The Giant Pool of Money (2008)
+404media.co,review,49,,Tumblr and WordPress to Sell Users' Data to Train AI Tools | AI Cameras Took over One Small American Town. Now They're Everywhere | Examples of AI rip-offs making their way into Google News
+azure.microsoft.com,review,49,,Azure’s Neural Text-to-Speech | PowerShell is open sourced and is available on Linux | Microsoft Azure: Functions
+blogs.msdn.microsoft.com,review,49,,"What We’ve Learned from .NET Core SDK Telemetry | Driver Signing changes in Windows 10, version 1607 | Windows Subsystem for Linux Overview (2017)"
+drewdevault.com,review,49,,"The reckless, infinite scope of web browsers (2020) | Please don't use Discord for FOSS projects | Developers: Let distros do their job"
+ico.org.uk,review,49,,"TalkTalk gets record £400,000 fine for failing to prevent October 2015 attack | What are PECR? | Guide to the General Data Protection Regulation (GDPR)"
+37signals.com,review,48,,Bring on the Haters - 37signals Podcast | Writing Decisions: Headline tests on the Highrise signup page | 37 Signals/Get Satisfaction Conflict Resolved
+blog.chromium.org,review,48,,Limiting Private API Availability in Chromium | Evolving Chrome's security indicators | Potential Uses for the Privacy Sandbox
+codinghorror.com,review,48,,New Programming Jargon (2012) | Coding Horror: FizzBuzz: the Programmer's Stairway to Heaven | Why Ruby?
+knowyourmeme.com,review,48,,The Wadsworth Constant | How does one patch KDE2 under FreeBSD? (2012) | Goofy 18th-Century Self-Portraits by Joseph Ducreux
+pubs.opengroup.org,review,48,,Shell Command Language | POSIX Make | POSIX.1-2024 HTML Version Is Online
+stratechery.com,review,48,,"Dollar Shave Club and the Disruption of Everything | Ends, Means, and Antitrust | Ben Thompson's Concepts [Resource]"
+blogs.scientificamerican.com,review,47,,"Psychiatrists Must Face Possibility That Medications Hurt More Than They Help | Natural nuclear fission reactor (2011) | Richard Feynman, sexism and changing perceptions of a scientific icon (2014)"
+bmj.com,review,47,,"Effects of a low carbohydrate diet on energy expenditure during weight loss | COVID-19: Countries are learning what others paid for vaccines (Jan 2021) | Covid-19: death rate is 0.66% and increases with age, study estimates"
+edition.cnn.com,review,47,,"Finance worker pays out $25M after video call call with deepfake CFO | Twinkie diet helps nutrition professor lose 27 pounds | In the tech world, porn quietly leads the way"
+gs.statcounter.com,review,47,,"Statcounter: browser market share Feb 2017 – Chrome 52%, Firefox: 7% | KaiOS gets closer to 1% mobile OS global market share"
+highscalability.com,review,47,,The Anatomy Of Search Technology: Blekko’s NoSQL Database | The Cost Savings Of Netflix's Internal Spot Market | How to count a billion distinct objects using only 1.5KB of Memory (2012)
+ietf.org,review,47,,Internet Protocol Version 8 (IPv8) | The Harmful Consequences of the Robustness Principle | Industry Concerns about TLS 1.3
+intel.com,review,47,,"Intel Processor Names, Numbers and Generation List | Intel-SA-00950 (CVE-2023-23583) | x86-S External Architectural Specification"
+nngroup.com,review,47,,"Powers of 10: Time Scales in User Experience | PDF: Still Unfit for Human Consumption, 20 Years Later (2020) | The Need for Speed, 23 Years Later"
+nvidia.com,review,47,,Jensen Huang – Nvidia GTC 2025 Keynote | Jetson AGX Xavier | Nvidia DGX GH200
+unicode.org,review,47,,"Unicode Character Properties, Case Mappings and Names FAQ | Full Emoji Data | Unicode Bidirectional Algorithm"
+crowdsupply.com,review,46,,Glasgow Interface Explorer | MNT Reform – open-source ARM laptop | Talos Secure Workstation
+google.github.io,review,46,,Google FlatBuffers | Open Source Casebook – Trademarks in Open Source | Google C++ Style Guide
+haskell.org,review,46,,H-99: Ninety-Nine Haskell Problems | Ghcup – The Haskell (GHC) toolchain installer | Are You A Types Hacker? Prove It
+manning.com,review,46,,Type-Driven Development | Go Mistakes and How to Avoid Them | Get Programming with Haskell
+oreilly.com,review,46,,AI Engineering | Unix Text Processing (1987) | The Emacs Commune (2002)
+reactjs.org,review,46,,Cached Size of React Memo | React v17.0 Release Candidate: No New Features | React v18.0
+a16z.com,review,45,,Understanding SaaS: Why the Pundits Have It Wrong | Why Amazon Has No Profits and Why It Works | I Did Not Go to Jail (2014)
+blog.rust-lang.org,review,45,,Rust: Security advisory for the standard library (CVE-2024-24576) | Fearless Concurrency in Firefox Quantum | The Plan for the Rust 2021 Edition
+caranddriver.com,review,45,,"Everything You Need to Know about the VW Diesel-Emissions Scandal | EVs Fall Short of EPA Estimates | Semi-Autonomous Car Compared: Model S, 750i, Q50S, S65 AMG"
+dlang.org,review,45,,DCompute: GPGPU with Native D for OpenCL and CUDA | Ownership and Borrowing in Dlang (2019) | DustMite: A General-Purpose Data Reduction Tool
+gq.com,include,45,GQ,How the World's Heaviest Man Lost it All | Dear Leader Dreams of Sushi | And the Award for the Next HBO Goes to...
+jwz.org,review,45,,"The CADT Model | If you were involved in the OpenGL ES specification, you are an idiot (2012) | Engineering pornography - underground power cables gone wrong"
+rationalwiki.org,review,45,,Last Thursdayism | Gish Gallop | Roko's basilisk
+blog.golang.org,review,44,,C? Go? Cgo | Introducing Gofix | Introducing the Go Race Detector
+htmx.org,review,44,,</> Htmx – The Fetch()ening | Moving from React to htmx | Locality of Behaviour (2020)
+openjdk.java.net,review,44,,New JEP 360: Sealed Classes (Preview) | Project Panama: Interconnecting JVM and native code | Java JEP338: to express vector computations
+politico.eu,review,44,,New York Times sues EU over von der Leyen's Pfizer texts | Europe splits on Trump’s call to dramatically boost defense spending | Italian privacy regulator bans ChatGPT
+consumerreports.org,review,43,,Four of the Five Least Expensive Car Brands to Maintain Are American | Protein Powders and Shakes Contain High Levels of Lead | Tesla Reliability Doesn’t Match Its High Performance
+cs.utexas.edu,review,43,,"On the cruelty of teaching computing science (1988) | On the foolishness of ""natural language programming"" | On the nature of computing science (1984)"
+engadget.com,review,43,,"You say advertising, I say block that malware | Latest Snowden leak reveals the NSA intercepted and bugged Cisco routers | The FBI operated an 'encrypted' chat app for organized criminals"
+engineering.fb.com,review,43,,How Facebook is bringing QUIC to billions | Building Meta's GenAI infrastructure | Threads: Meta’s Newest Social App
+esquire.com,include,43,Esquire,How I Convinced a Death-Row Murderer Not to Die | When the End of Human Civilization Is Your Day Job (2014) | The Saga of the Dune Crypto Bros and Their Pricey Mistake Is at Its End
+foreignpolicy.com,review,43,,Economists on the Run | The scandalous history of America’s newest media baron | Botched CIA Communications System Helped Blow Cover of Chinese Agents
+fsf.org,review,43,,High Priority Free Software Projects | Who actually reads the code? | Why free software shouldn't depend on Mono or C#
+gdpr-info.eu,review,43,,Right to access information/logic about automated decision making in GDPR Art 15 | Art. 7 GDPR: Conditions for consent
+iana.org,review,43,,Link Relations | Uniform Resource Identifier (URI) Schemes | Root KSK Ceremonies
+opensecrets.org,review,43,,Top all time campaign donors | Surprise: Most Top Donors Lean Strongly Democrat | Tax prep companies: $90M lobbying against free tax-filing
+owasp.org,review,43,,The OWASP Top 10 (2025) | Regular Expression Denial of Service – ReDoS | OWASP Testing Guide v3: Best practices web application penetration testing framework
+psychologytoday.com,review,43,,"The grandmaster experiment | Scientific Bias in Favor of Studies Finding Gender Bias (2019) | The Emerging Problem of ""AI Psychosis"""
+sfchronicle.com,review,43,,Bid to open S.F. ice cream shop turns into a bitter saga due to byzantine rules | He couldn’t get over his fiancee’s death. So he brought her back as an A.I. chatbot | They grew up in Oakland. They owned homes. How did they lose everything?
+taxfoundation.org,review,43,,"Summary of the Latest Federal Income Tax Data, 2024 Update | Tax Burden by State (2022) | Corporate Tax Rates around the World, 2020"
+troyhunt.com,review,43,,"API versioning is wrong – I decided to do it 3 wrong ways (2014) | Lessons in website security anti-patterns by Tesco | Thanks FedEx, This Is Why We Keep Getting Phished (2024)"
+usnews.com,review,43,,"Best U.S. States Rankings | Edward Snowden Unpopular at Home, a Hero Abroad, Poll Finds – US News | The New Censorship: ""How did Google become the internet's censor and master manipulator, blocking access to millions of websites?"""
+abcnews.go.com,review,42,,Bank of America in Florida Foreclosed on by Angry Homeowner (2011) | Greenwald: Low-Level NSA Analysts Have Powerful and Invasive Search Tool [video] | Airport Security: Loaded Gun Slips Past TSA Screeners
+ai.googleblog.com,review,42,,Reformer: The Efficient Transformer | ML-Enhanced Code Completion Improves Developer Productivity | Google AI Blog: An All-Neural On-Device Speech Recognizer
+aphyr.com,review,42,,Jepsen: Zookeeper | Clojure from the ground up | Cassandra: safety and consistency
+blog.samaltman.com,review,42,,Idea Generation - Sam Altman | Productivity | The software revolution
+mayoclinic.org,review,42,,"Oppositional Defiant Disorder (ODD) | Alpha-Gal Syndrome | Caffeine content for coffee, tea, soda and more"
+openrouter.ai,review,42,,LLM Rankings | Surpassing Frontier Performance with Fusion | Is OpenRouter miss pricing GPT 5.6 models?
+oracle.com,review,42,,The end of OpenJDK for commercial use | Java SE 8 Date and Time | Oracle Nashorn: A Next-Generation JavaScript Engine for the JVM
+orgmode.org,review,42,,Org-drill: flashcards and spaced repetition for emacs' org-mode | Org tutorials | David O'Toole Org tutorial
+pluralistic.net,review,42,,The (economic) AI apocalypse is nigh | A World Without People | It's not a crime if we do it with an app
+spiegel.de,review,42,,China's Xinjiang: A Surveillance State Unlike Any the World Has Ever Seen | German Intelligence Used NSA Spy Program | Islamic State Files Show Structure of Islamist Terror Group
+usafacts.org,review,42,,How much does the US federal government spend? | Is Social Security running out? | Obesity rate nearly triples in the United States over the last 50 years
+zed.dev,review,42,,Zed will require age identification for its services | Zed Decoded: Rope and SumTree | Zed Launches Edit Prediction with new Zeta LLM
+abc.net.au,review,41,,IBM to pay more than $30m in compensation for Australian census fail | Driverless trucks move all iron ore at Rio Tinto's Pilbara mines (2015) | Australians to get three hours of free electricity every day under solar scheme
+antipope.org,review,41,,Insufficient Data | Antibodies | Charlie Stross on The myth of the starship
+atlasobscura.com,review,41,,"The Elusive, Maddening Mystery of the Bell Witch. A classic ghost story has something to say about America—200 years ago, 100 years ago, and today. | The Strange Saga of Kowloon Walled City | The Doomed Mouse Utopia That Inspired the 'Rats of NIMH'"
+duckdb.org,review,41,,Multi-database support in DuckDB | Querying Parquet with Precision Using DuckDB | Lightweight Compression in DuckDB (2022)
+hn.algolia.com,review,41,,Most Popular HN Stories | Top HN posts of all time | 3 of the 4 highest voted HN posts feature Apple
+phys.org,review,41,,Ancient Patagonian hunter-gatherers took care of their injured and disabled | European Little Ice Age caused by arrival of early explorers in New World (2011) | LED's Efficiency Exceeds 100% (2012)
+sivers.org,review,41,,"""to have a good and meaningful life, you need to overcome your insatiability"" | Things I wish I knew the day I started Berklee | Memorizing a programming language using spaced repetition software"
+strongtowns.org,review,41,,"Poor Neighborhoods Make the Best Investments | The more we build, the poorer we get | Why do we keep designing streets for speed?"
+waymo.com,review,41,,The Waymo World Model: A New Frontier for Autonomous Driving Simulation | Waymo Open Dataset | Waymo will bring autonomous vehicles to Tokyo
+cato.org,review,40,,How Rent Control Drives Out Affordable Housing | 150-Year Wait for Indian Immigrants with Advanced Degrees | 2020 Human Freedom Index (Cato)
+cr.yp.to,review,40,,"Crit-bit trees | Rebuilding target files when source files have changed (2003) | UTC, TAI, and Unix time (1997)"
+creativecommons.org,review,40,,Public Domain Mark 1.0 | Using CC0 for public domain software (2011) | Fair Use: Training Generative AI
+europa.eu,review,40,,ECall 112-based emergency assistance from your vehicle | Antitrust: EU Commission Lodges Complaints on Google for Android OS | EU abolishing daylight saving time
+hexdocs.pm,review,40,,Elixir Usage Rules for LLMs | Phoenix.LiveView behaviour | Elixir Anti-Patterns
+kotlinlang.org,review,40,,Kotlin 101 for Java/C++ Developers | Kotlin: zero-overhead lambda | Kotlin-based domain-specific languages
+linux.die.net,review,40,,Fortune(6) – Linux Man Page | Expect – Linux tool for automating interactive programs | Sponge(1) – soak up standard input and write to a file
+research.microsoft.com,review,40,,Infer.NET Framework For Running Bayesian Inference in Graphical Models | Koka – A function-oriented programming language | Singularity
+research.swtch.com,review,40,,Go += Package Versioning | Your Face as a QR Code | Semantic Import Versioning
+sciencemag.org,review,40,,"Vaclav Smil, the man who has quietly shaped how the world thinks about energy | Gut directly connected to brain, by a newly discovered neuron circuit | The ‘circle of trust’ behind the world’s first gene-edited babies"
+web.dev,review,40,,Prevent DOM-based cross-site scripting vulnerabilities with Trusted Types | Photoshop's Journey to the Web | Making your website “cross-origin isolated” using COOP and COEP
+weforum.org,review,40,,Is there enough lithium to make batteries for EVs to get to net zero? | The Great Reset | 90% of all plastic in the ocean comes from 10 rivers
+chromium.googlesource.com,review,39,,Chrome Will No Longer Show Extended Validation Cert Info | Linux Syscall Support: Low level C API for making direct Linux syscalls | Chromium Lacros
+clang.llvm.org,review,39,,Clang-Format Style Options | The Best Summary of Objective-C | The instancetype keyword in Objective-C
+deepmind.google,review,39,,Gemini 3 | RT-2: new model translates vision and language into action | Our latest advances in robot dexterity
+fabiensanglard.net,review,39,,"FizzleFade | The Game Engine Black Book: Wolfenstein 3D, 2nd edition has shipped on paper too | QuakeWorld by John Carmack"
+hsph.harvard.edu,review,39,,Epstein-Barr virus may be leading cause of multiple sclerosis | Suicide Attempters’ Long-Term Survival | What should you eat: Protein
+huffingtonpost.com,review,39,,"Wikileaks Put Women in Turkey in Danger, for No Reason | Google: If you do something you don't want anyone to know maybe you shouldn't... | Why I Sued Google (and Won)"
+leanpub.com,review,39,,"JavaScript Allongé | My book: ""Loving Common Lisp, or the Savvy Programmer's Secret Weapon"" | No Budget Budget: Pay Important Bills on Time, Every Time - Without Budgeting"
+llvm.org,review,39,,LLVM Backend Tutorial | A proposal to start “llvm-libc” (2020) | LLVM-Mca – LLVM Machine Code Analyzer
+nationalgeographic.com,review,39,,When Hubble stared at nothing for 100 hours (2015) | How some cities ‘flattened the curve’ during the 1918 flu pandemic | deleted
+rachelbythebay.com,review,39,,"One machine can go pretty far if you build things properly | How the Valley treats its experienced people (2018) | Remote code execution, git, and OS X"
+ubuntu.com,review,39,,TPM-backed Full Disk Encryption is coming to Ubuntu (2023) | Ubuntu for the Internet of Things (IoT) | No link or mention of 12.04 Alpha2 link on Ubuntu's download page
+academic.oup.com,review,38,,Large language models reduce public knowledge sharing on online Q&A platforms | A Population-Level Decline in Serum Testosterone Levels in American Men (2007) | Supernovae evidence for foundational change to cosmological models
+daniel.haxx.se,review,38,,Curl is C (2017) | Daniel Stenberg Is Finally Granted a US Visa | HTTP/3 in curl mid 2024
+duckduckgo.com,review,38,,DuckDuckGo Goodies | PRISM fears give DuckDuckGo its best week ever | Comparing privacy across browsers and extensions
+emacswiki.org,review,38,,Moving the Ctrl Key | Sublime-inspired MiniMap for Emacs | Guile Emacs Todo
+extremetech.com,review,38,,"Zeolite retains heat indefinitely, absorbs 4x more heat than water | Forbes forces readers to turn off ad blockers, promptly serves malware | Google: Self-driving cars in 3-5 years. Feds: Not so fast"
+googleprojectzero.blogspot.com,review,38,,A deep dive into iOS Exploit chains found in the wild | How to Compromise the Enterprise Endpoint | A walk through Project Zero metrics
+man.openbsd.org,review,38,,Unveil(2) – Unveil parts of a restricted filesystem view | OpenBSD: pledge | OpenBSD sshd(8) new PerSourceMaxStartups option
+nixos.org,review,38,,Nix Pills | NixOps – Declarative cloud provisioning and deployment with NixOS | Nix 2.0 Released
+open-std.org,review,38,,Implicit creation of objects for low-level object manipulation | Programming Language C – C2x Charter | Field Experience with Annex K – Bounds Checking Interfaces
+queue.acm.org,review,38,,SQL Is No Excuse to Avoid DevOps | Writing your own search engine is hard (2004) | The One-second War (What Time Will You Die?)
+swift.org,review,38,,New Diagnostic Architecture Overview | The Swift SDK for Android | Swift 5 Exclusivity Enforcement
+ziglang.org,review,38,,Zig 0.9.0 | Zig Programming Language 0.1.1: First beta release | Zig Software Foundation 2025 Financial Report and Fundraiser
+amnesty.org,review,37,,Ranking Human Rights Due Diligence Reporting of Leading Electric Vehicle Makers | Israel’s Apartheid Against Palestinians | Amnesty International: Ukrainian fighting tactics endanger civilians
+brendangregg.com,review,37,,BPF Performance Tools | Bpftrace for Linux 2018 | Active Benchmarking
+commission.europa.eu,review,37,,EU competitiveness: Looking ahead [pdf] | The Digital Markets Act: ensuring fair and open digital markets | Adequacy Decision for the EU-US Data Privacy Framework
+grnh.se,review,37,,
+inc.com,review,37,,"Songs that reduce anxiety by up to 65%, according to neuroscience | The Sales Commission Dilemma | Harvard Study: Your Open-Plan Office Is Making Your Team Less Collaborative"
+lucumr.pocoo.org,review,37,,Writing Python 2.x forward compatible to Python 3 code | Dealing with JavaScript's Automatic Semicolon Insertion | Python and the Principle of Least Astonishment (2011)
+mullvad.net,review,37,,No-logging of user activity policy | Mullvad VPN was subject to a search warrant | Mullvad – DNS over HTTPS and DNS over TLS
+nostarch.com,review,37,,C++ Crash Course: A Fast-Paced Introduction | Open Circuits – The Inner Beauty of Electronic Components | Conrad Barski's Land of Lisp coming in October
+w3c.github.io,review,37,,WebTransport Draft Spec | Manifest for web application | High Dynamic Range and Wide Gamut Color on the Web
+wikileaks.org,review,37,,Google and NSA: Who's Holding the Shit-Bag Now? | Vault 7: CIA Hacking Tools Revealed | WikiLeaks – The Podesta Emails
+wordpress.org,review,37,,5M+ Wordpress sites use “Classic Editor” plugin | ActivityPub for WordPress | The new Gutenberg editor for WordPress 5.0
+world-nuclear.org,review,37,,Nuclear Power in China | Nuclear Power in the World Today | Nuclear Power in France
+bunniestudios.com,review,36,,A Tale of Two Zippers | Investigating counterfeit MicroSDs | The $12 Gongkai Phone
+c2.com,review,36,,Laziness Impatience Hubris | Second System Effect | Why Is Payroll Hard
+cvedetails.com,review,36,,Top products having highest number of CVE security vulnerabilities | Compare Java CVE to Chrome CVE
+data.oecd.org,review,36,,Global Health Spending | Average annual hours worked | Statistics: Percentage trust-in-government for each of the 38 OECD countries
+deepmind.com,review,36,,Differentiable Neural Computers | Neural scene representation and rendering | DeepMind: Optimal training of large language models
+dw.com,review,36,,Nuclear plant operators in Germany pay $26B to dispose of waste responsibility | Almost all plastic in the ocean comes from just 10 rivers | Danish secret service helped US spy on Germany's Angela Merkel: report
+microsoft.github.io,review,36,,Generative AI Scripting | React Native for Windows and macOS | GraphRAG
+python.org,review,36,,Python 3000 Alpha 1 Released | Sunsetting Python 2 | Python 0.9.1
+blog.regehr.org,review,35,,The Little C Function From Hell | We Need Hardware Traps for Integer Overflow | Teaching C (2016)
+buzzfeed.com,review,35,,"Evidence of Kremlin assassination plot that British authorities sidelined | Locked On The Psych Ward: Lock them in. Bill their insurer. Kick them out. How scores of employees and patients say America’s largest psychiatric chain turns patients into profits. | Google's Lost Social Network: How Google accidentally built a truly beloved social network, only to steamroll it with Google+."
+googleblog.blogspot.com,review,35,,When patents attack Android | Google Labs Winding Down | Google Kills Wave
+html.spec.whatwg.org,review,35,,HTML Living Standard | HTML Optional Tags | WHATWG: 140 Characters Discourages Intelligent Discourse
+jeffgeerling.com,review,35,,I won't connect my dishwasher to your cloud | You can't buy a Raspberry Pi right now | Everything I've learned building the fastest Arm desktop
+proton.me,review,35,,Apple is becoming an ad company despite privacy claims | Proton Transperancy Report 2024 | Outlook is Microsoft's new data collection service
+raspberrypi.com,review,35,,Introducing: Raspberry Pi 5 | RP1: The silicon controlling Raspberry Pi 5 I/O | Raspberry Pi 5
+steve-yegge.blogspot.com,review,35,,Steve Yegge: Have you ever legalized marijuana? | Dynamic Languages Strike Back | Steve Yegge: Rhinos and Tigers (2008)
+udacity.com,review,35,,"CS212: Design of Computer Programs | Udacity  Interactive 3D Graphics | New Udacity Classes: Physics, Stats, Algos, Logic & SW Testing"
+venturebeat.com,review,35,,"Mozilla responds to Firefox user backlash over Pocket integration | Pwn2Own 2016: Chrome, Edge, and Safari hacked, $460k awarded | Ghostery: A Web tracking blocker that actually helps the ad industry"
+wheresyoured.at,review,35,,Anthropic and OpenAI Have Begun the Subprime AI Crisis | Reality Check | Are We Watching the Internet Die?
+aljazeera.com,review,34,,New research on the cost of colonization to India | Palestine's forgotten oil and gas resources (2021) | US Military presence around the world (2021)
+blogs.windows.com,review,34,,Building a More Interoperable Web with Microsoft Edge | Introducing Windows Defender Application Guard for Microsoft Edge | Microsoft is offering free updates for Windows 10 until 2026
+citylab.com,review,34,,"The U.S. Gets Less Subway for Its Money Than Its Peers | When America's Basic Housing Unit Was a Bed, Not a House | The Commuting Principle That Shaped Urban History"
+digitalocean.com,review,34,,How to Use Bash History Commands and Expansions on a Linux VPS | DigitalOcean Restricts SMTP | Digital Ocean Terms of Service – Interesting Summary
+eli.thegreenplace.net,review,34,,Perfect forwarding and universal references in C++ | Top-Down operator precedence parsing | How statically linked programs run on Linux
+frame.work,review,34,,Linux on the Framework Laptop | Open-Sourcing our Firmware | The Framework Laptop
+gamasutra.com,review,34,,"Functional programming in C++ (2012) | 'Things we create tell people who we are': Designing Zachtronics' TIS-100 | The Game Outcomes Project, Part 4: Crunch Makes Games Worse"
+livescience.com,review,34,,Exhaled Pounds: How Fat Leaves the Body | Today Marks a Year of Covid-19 | How Many Calories Can the Brain Burn by Thinking?
+thenation.com,review,34,,Marc Andreessen's Dangerously Unexamined Life | Can we still recover the right to be left alone? | The Secret History of Lead
+usenix.org,review,34,,Everything Old Is New Again: Binary Security of WebAssembly | Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code | FreeBSD on Firecracker: Experiences Porting FreeBSD 14 to the Firecracker VMM
+ballotpedia.org,review,33,,Maine Ranked Choice Voting Initiative Approved | Proposition 22: App-Based Drivers as Contractors and Labor Policies Initiative | California voters reject changing constitution to allow race discrimination
+bellard.org,review,33,,TinyGL 0.4.1 | QEmacs | Obfuscated Tiny C Compiler
+cell.com,review,33,,Prolonged Fasting Promote Hematopoietic-Stem-Cell-Based Regeneration | Microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance | Recency and geographic origin of the bat viruses ancestral to SARS-CoV and CoV-2
+cl.cam.ac.uk,review,33,,Concepts in Programming Languages | Security Engineering – A Guide to Building Dependable Distributed Systems | Unicode Fonts and Tools for X11
+computerhistory.org,review,33,,Deluxe Paint: Early Source Code | Microsoft MS-DOS early source code | Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator
+econtalk.org,review,33,,"EconTalk: Keith Smith on Free Market Health Care—Anesthesiologist Keith Smith of the Surgery Center of Oklahoma talks about what it's like to run a surgery center that posts prices on the internet and that does not take insurance. | Yanis Varoufakis on Valve, Spontaneous Order, and the European Crisis | Sam Quinones on Heroin, the Opioid Epidemic, and Dreamland"
+hackernoon.com,review,33,,What Really Happened with Vista | The MVP is dead. Long live the RAT | Why Everyone Missed the Most Important Invention in the Last 500 Years
+idlewords.com,review,33,,Why Arabic Is Terrific (2011) | Dabblers and Blowhards (2005) | The Advertising Bubble
+imf.org,review,33,,The Rise and Fall of Albania's Pyramid Schemes | Dollar Dominance and the Rise of Nontraditional Reserve Currencies | Global Fossil Fuel Subsidies Remain Large: An Update on Country-Level Estimates
+nolo.com,review,33,,
+redis.io,review,33,,Introduction to Redis Streams | Redis Cluster Tutorial | Redis latency problems troubleshooting
+shop.oreilly.com,review,33,,Getting started with Dwarf Fortress (book) | Data Science Starter Kit | Mastering Bitcoin – By Andreas M. Antonopoulos
+typescriptlang.org,review,33,,A TypeScript Gotcha | TypeScript for Functional Programmers | Typescript looks pretty cool
+xmpp.org,review,33,,"No, it’s not the end of XMPP for Google Talk | XEP-0357: Push | Signal protocol comes to XMPP/Jabber"
+amd.com,review,32,,AMD Instinct MI325X GPU Accelerators | How to Run a One Trillion-Parameter LLM Locally: AMD Ryzen AI Max+ Cluster Guide | Spectre Mitigation Update
+boardgamegeek.com,review,32,,
+code.claude.com,review,32,,Claude Code Hooks Reference | Navigate to Claude Code Docs via Claude.md | Claude Code sessions erase after 30 days by default
+fourmilab.ch,review,32,,"Golden Rules for Making Money (1880) | The Hacker's Diet - How to lose weight and hair through stress, poor nutrition | The Autodesk File"
+hanselman.com,review,32,,"I'm a phony. Are you? | Windows 8 productivity: Who moved my cheese? Oh, there it is. | Easily rename your Git default branch from master to main"
+history.com,review,32,,The Spies Who Launched America’s Industrial Revolution | Why the second wave of the 1918 Spanish flu was so deadly | New Labour and the End of the Welfare State for Artists
+home-assistant.io,review,32,,Almond and Ada: privacy-focused voice assistant | Home Assistant Voice | Home Assistant blocked from integrating with Garage Door opener API
+iihs.org,review,32,,"Trucks have better safety stats | Driver death rates by make and model – Insurance Institute for Highway Safety | Vehicles with higher, more vertical front ends pose greater risk to pedestrians"
+imperialviolet.org,review,32,,How to botch TLS forward secrecy (2013) | Revocation still doesn't work | TLS Symmetric Crypto
+jvns.ca,review,32,,"How to answer questions in a helpful way | How to ask good questions | Do we think of Git commits as diffs, snapshots, or histories?"
+noahpinion.blog,review,32,,What will more intelligence actually do for us? | Xi Jinping vs. Macroeconomics | Why did U.S. wages stagnate for 20 years?
+puri.sm,review,32,,Purism – Librem 14 | Librem 5 – A Security and Privacy Focused Phone | How Purism Works Upstream and Gives Back
+radiolab.org,review,32,,"Trans-Cranial Direct Current Stimulation | From Tree to Shining Tree, or how forests behave like intelligent beings | Nukes"
+seattletimes.com,review,32,,Boeing overhauls quality controls: more high-tech tracking but fewer inspectors | New FAA tests spur fundamental software redesign of 737 MAX flight controls | FAA evaluates potential design flaw on 737 MAX after Lion Air crash (2018)
+stallman.org,review,32,,RMS' comment on Aaron Swartz's death | Am I Doctor Stallman? | Reasons to Not Use ChatGPT
+steveblank.com,review,32,,Startup Stock Options – Why A Good Deal Has Gone Bad (2019) | Durant Versus Sloan | Search versus Execute
+theonion.com,review,32,,"‘No Way To Prevent This,’ Says Only Nation Where This Regularly Happens | Nabisco scientists discover unstable Quadriscuit cracker | Historians: Quibbling over Concentration Definition Camp Sign of Healthy Society"
+ai.google.dev,review,31,,"Context caching guide | Gemma – a family of lightweight, state-of-the art open models from Google | Gemini 2.5 Flash Preview 05-20"
+antirez.com,review,31,,Random notes on improving the Redis LRU algorithm | Writing system software: code comments | The end of the Redis adventure (2020)
+asahilinux.org,review,31,,Asahi Linux Progress Linux 6.18 | Asahi Linux Progress Report: January/February 2021 | Paving the Road to Vulkan on Asahi Linux
+css-tricks.com,review,31,,Does CSS Grid Replace Flexbox? | When to Use Target=“_blank” | Using CSS With No HTML At All
+fs.blog,review,31,,Mental Models: The Best Way to Make Intelligent Decisions | Water by David Foster Wallace (2012) | The Antilibrary: Why Unread Books Are the Most Important
+icann.org,review,31,,The Chagos Archipelago and the .io domain | How to Become a Registrar (2012) | .INTERNAL is now reserved for private-use applications
+lrb.co.uk,include,31,London Review of Books,Whose sarin? | Are We Doomed? | The Killing of Osama bin Laden
+magazine.atavist.com,include,31,The Atavist Magazine,Damages | The Mastermind | Watch It Burn - The Atavist Magazine
+mises.org,review,31,,"Medieval Iceland and the Absence of Government | The Myth of Natural Monopoly. History of the Gas Light Company of Baltimore from its founding in 1816, it constantly struggled with new competitors. Its response was to compete in the marketplace, also to lobby the local authorities to refrain from granting corporate charters to competitors. | Human action"
+newscientist.com,review,31,,Autonomous drones have killed human soldiers for the first time | Google AI has access to huge haul of NHS patient data | Code hidden in Stone Age art may be the root of human writing (2016)
+noemamag.com,include,31,Noema,Approaching The Infopocalypse | NOEMA | The Politics of Superintelligence | Making 'food out of thin air' (2024)
+redhat.com,review,31,,"Security flaws caused by compiler optimizations | Find anything you need with fzf, the Linux fuzzy finder tool | Command Line Heroes: Season 3"
+signalvnoise.com,review,31,,"Server-generated JavaScript Responses | Hybrid sweet spot: Native navigation, web content | Is group chat making you sweat?"
+spacex.com,review,31,,SpaceX Starshield | CRS-7 Investigation Update | Reserve your SpaceX Rideshare online
+terrytao.wordpress.com,review,31,,"Terry Tao on how to compute non-converging infinite sums (2010) | Benford’s law, Zipf’s law, and the Pareto distribution (2009) | Advice on gifted education"
+thecut.com,include,31,New York Magazine,How I got scammed out of $50k | The Divorce Tapes | The Case of the Amazing Gay-Marriage Data: How a Graduate Student Reluctantly Discovered A Huge Scientific Fraud
+torrentfreak.com,review,31,,"Which VPN Providers Really Take Anonymity Seriously? | BitTorrent Piracy Boosts Music Sales, Study Finds | Piracy is not theft, Lost sales don't exist, says Minecraft creator (2011)"
+web.stanford.edu,review,31,,"Les Earnest | Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares | John Ousterhout: My Favorite Sayings"
+www-cs-faculty.stanford.edu,review,31,,MMIX 2009: A RISC computer for the third millennium (2011) | The Art of Computer Programming by Donald E. Knuth | Wanted: A Name For High-Tech Grief (Don Knuth)
+ycharts.com,review,31,,
+aaronsw.com,review,30,,What Happens in The Dark Knight – Aaron Swartz | Markdown (2004) | D. J. Bernstein is the greatest programmer (Aaron Swartz)
+blockchain.info,review,30,,500 percent more bitcoin transactions since May | Bitcoins seized from Dread Pirate Rogers (144kBTC ~= 25mln$) | Bitcoin market cap now +$200M as prices keep rising
+canada.ca,review,30,,"Longevity of Recordable CDs, DVDs and Blu-Rays (2020)"
+cockroachlabs.com,review,30,,How We're Building a Business to Last | Pebble: A RocksDB Inspired Key-Value Store Written in Go | CockroachDB 2.0 Performance Makes Significant Strides
+dqydj.com,review,30,,"Income Percentile Calculator for the United States | United States Net Worth Brackets, Percentiles, and Top One Percent – Dqydj"
+edge.org,review,30,,"The Science of Gender and Science: Pinker vs. Spelke: a debate on the research on mind, brain, and behavior that may be relevant to gender disparities in the sciences, including the studies of bias, discrimination and innate and acquired difference between the sexes. | How does our language shape the way we think? | 2013: What should we be worried about?"
+en.wikibooks.org,review,30,,Write Yourself a Scheme in 48 Hours | Seed Factories and Self-Improving Systems | Wikibooks: F# Programming
+frontiersin.org,review,30,,Rethinking Superdeterminism | Prestigious Science Journals Struggle to Reach Even Average Reliability | Organoid intelligence: new frontier in biocomputing and intelligence-in-a-dish
+hrw.org,review,30,,Eradicating Ideological Viruses | A Threshold Crossed: Israeli Authorities and the Crimes of Apartheid and Persecution | HRW Q&A: Israeli Military's Use of Digital Tools in Gaza
+lkml.org,review,30,,"Linus Torvalds on the ""security circus"" (2008) | The Linux kernel's inability to gracefully handle low memory pressure | OT: Open Letter to the Linux World"
+nim-lang.org,review,30,,A New Runtime for Nim | Nim programming language | Patten Matching in Nim
+nybooks.com,review,30,,The Dying Russians (2014) | The Inventor of Magical Realism | 'We Kill People Based on Metadata' (2014)
+priceonomics.com,review,30,,How to Be a Lawyer Without Going to Law School | Why Did San Francisco Schools Stop Teaching Algebra in Middle School? | How an Ad Campaign Made Lesbians Fall in Love with Subaru
+qntm.org,review,30,,Valuable Humans in Transit (2006) | “Lena” isn't about uploading | So You Want to Abolish Time Zones
+space.com,review,30,,Arianespace CEO: Europe won't have reusable rockets for another decade | Warp Drive More Possible Than Previously Thought | Lagrange Points: Parking Places in Space (2017)
+waitbutwhy.com,review,30,,Why Generation Y Yuppies Are Unhappy | The AI Revolution: The Road to Superintelligence | What’s Our Problem?: a self-help book for societies
+yubico.com,review,30,,YubiHSM – hardware security module HSM for your server | Getting a biometric security key right | YubiKey 4C Nano
+ai.meta.com,review,29,,Meta prohibits Department of Defense to use Llama2 | Llama 2: Open Foundation and Fine-Tuned Chat Models | Code Llama: Open Foundation Models for Code
+appleinsider.com,review,29,,"Apple Silicon M3 Pro Beats Nvidia RTX 4090 in AI Benchmark | Apple and ARM have been crucial to each other's survival for three decades | C1 modem breaks no speed records, but is power efficient"
+atlassian.com,review,29,,Atlassian Stash Pricing | Atlassian | Bitbucket self-hosted runner will cost $15/month | JIRA is now JIRA software
+bleepingcomputer.com,review,29,,"Dev corrupts NPM libs 'colors' and 'faker', breaking thousands of apps | Malware Found in Arch Linux AUR Package Repository | Microsoft still unsure how hackers stole Azure AD signing key"
+blog.cryptographyengineering.com,review,29,,The EARN IT act is an attack on end-to-end encryption | What’s the Matter with PGP? | The strange story of “Extended Random”
+cacm.acm.org,review,29,,The Go Programming Language and Environment | CoSQL: SQL and noSQL are really just two sides of the same coin | Automatically Translating C to Rust
+coinmarketcap.com,review,29,,"USDC Loses Peg | Luna $0.34 falls below the “stablecoin” it is props up, UST $.67 | 66% of all Tether (USDT) have been printed in the last 6 months"
+freebsd.org,review,29,,The Power to Serve! - FreeBSD 10.2 - Get it while it's still hot... | FreeBSD Manual Pages: Hier(7) | FreeBSD 13.0
+futurism.com,review,29,,Study: Consumers Actively Turned Off by AI | When AI Is Trained on AI-Generated Data Things Start to Happen | A Host of Soon-To-be-Expired Patents Are Set to Revolutionize 3D Printing
+gitlab.freedesktop.org,review,29,,PulseAudio Bluetooth HSP/HFP impl. via hsphfpd daemon blocked by Linux kernel | Wlroots: A modular Wayland compositor library | Xserver modesetting: add support for TearFree page flips
+howtogeek.com,review,29,,Windows 10 Without the Cruft: Windows 10 LTSB (Long Term Servicing Branch) | Don't download software from SourceForge if you can help it | How to See (and Disable) the Telemetry Data Firefox Collects About You (2020)
+mashable.com,review,29,,"Feeld's disaster of a rebrand (6th day of ongoing outage) | Sam Altman open to ads on ChatGPT, calls Instagram ads 'kinda cool' | The Carbon Footprint Sham"
+motherboard.vice.com,review,29,,Bitcoin is Unsustainable? | God's Lonely Programmer | The Drug Cartels' IT Guy
+nextjs.org,review,29,,Next.js 13 Server Actions | RCE on Next.js | Next.js 13 Beta Docs
+pcmag.com,review,29,,Native American Tribe Gets Early Access to SpaceX's Starlink and Says It's Fast | Starlink's laser system is beaming 42 petabytes of data per day | Mozilla Signs Lucrative 3-Year Google Search Deal for Firefox
+react.dev,review,29,,React Labs: What We've Been Working On – February 2024 | React Compiler Beta Release | React v19
+sfconservancy.org,review,29,,Toward Copyleft Equality for All | Let's discuss the source code for the GPLed parts of Tesla cars (2019) | Software Freedom Conservancy: The Strategic GPL Enforcement Initiative
+caddyserver.com,review,28,,Show HN: Caddy 2 | Caddy – Automatic HTTPS | Caddy Pricing Plans
+e360.yale.edu,review,28,,"As Millions of Solar Panels Age Out, Recyclers Prepare to Cash In | How the World Passed a Carbon Threshold and Why It Matters (2017) | China Became the Leader on Renewable Energy"
+elixir-lang.org,review,28,,Real-time collaboration with Elixir at Slab | Type system updates: moving from research into development (Elixir) | Announcing GenStage
+ibm.com,review,28,,IBM Blockchain | IBM Technology Atlas | On “Quantum Supremacy”
+nobelprize.org,review,28,,Chemistry Nobel: Computational protein design and protein structure prediction | The Nobel Prize in Physics 2019 | Alfred Nobel's Will
+perldoc.perl.org,review,28,,
+research.google,review,28,,A Novel Neural Network Architecture for Language Understanding (2017) | Google Research Publications Database | AI in software engineering at Google: Progress and the path ahead
+rust-lang.github.io,review,28,,Rust Bindgen | MdBook – MdBook Documentation | Asynchronous Programming in Rust
+seriouseats.com,review,28,,The truth about cast iron pans | The Food Lab's Chocolate Chip Cookies Recipe | DON’T deep fry gnocchi
+statnews.com,review,28,,"CO2 helps viruses stay alive longer in the air | Sugar industry secretly paid for favorable Harvard research | With ventilators running out, doctors say the machines are overused for Covid-19"
+tailwindcss.com,review,28,,Tailwind CSS Standalone CLI | Tailwind CSS v4.0 | Utility-First – Tailwind CSS
+texastribune.org,review,28,,Texplainer: Why does Texas have its own power grid? (2011) | Meta to pay Texas $1.4B for using facial recognition without users' permission | Austin rents have fallen for nearly two years
+v8.dev,review,28,,"V8 WASM Compilation Pipeline | V8: A Year with Spectre | There's Math.random(), and then there's Math.random() (2015)"
+yosefk.com,review,28,,"The state of AI for hand-drawn animation inbetweening | What “Worse Is Better vs. the Right Thing” Is About | Why bad scientific code beats code following ""best practices"""
+bitcointalk.org,review,27,,"Bitcoin alternatives | List of Bitcoin Heists | REWARD offered for hash collisions for SHA1, SHA256, RIPEMD160 and other"
+channel9.msdn.com,review,27,,Thinking for Programmers (2014) [video] | Panel: Systems Programming in 2014 and Beyond [video] | Erik Meijer and Lars Bak: Inside V8 – A JavaScript Virtual Machine
+dev.mysql.com,review,27,,Atomic Data Definition Statement Support | MySQL: The JSON Data Type | MySQL 9.0 is now available for download
+edx.org,review,27,,Quantum Mechanics and Quantum Computation Course | Introduction to Linux | Multiple Engineering Positions at edX
+europarl.europa.eu,review,27,,Anti-nuclear lobbying by German foundations in France and Poland | EU AI Act: first regulation on artificial intelligence (2023) | Europarl legislative train
+factcheck.org,review,27,,"Fact Check on ""Climategate"" | Hospital Payments and the Covid-19 Death Count"
+filfre.net,review,27,,"Controlling the Spice, Part 3: Westwood’s Dune | The Hobbit – The Digital Antiquarian (2012) | A Net Before the Web, Part 1: The Establishment Man and the Magnificent Rogue"
+golang.org,review,27,,Effective Go | Go 1.7.1 Released | Official Go Language Introduction
+jacquesmattheij.com,review,27,,How to run a small consultancy / freelancing business | The Fastest Blog in the World | A Western Kid Living in Communist Poland
+lua.org,review,27,,Tables | Programming in Lua [free book] | Lua Programming Gems
+marc.info,review,27,,GitHub auto-generated tarballs vs. releases | Show HN: Git-series: track changes to a patch series over time | On the matter of OpenBSD breaking embargos (KRACK)
+matt.might.net,review,27,,Get Tenure | Continuation-passing style in JavaScript | Resolutions for programmers (2012)
+nerdwallet.com,review,27,,
+news.harvard.edu,review,27,,"For life expectancy, money matters | Harvard scholars identify tenets of America’s built-in inequity, offer answers | Meditation study shows changes associated with awareness, stress"
+noyb.eu,review,27,,"Meta now officially regulates itself | Noyb files complaints against Apple's tracking code “IDFA” | Court decides ""Pay or Okay"" on DerStandard.at is illegal"
+popularmechanics.com,review,27,,When Kodak Accidentally Discovered A-Bomb Testing | What Really Happened Aboard Air France 447 | The Ekranoplan Is Stranded Off a Beach
+scottaaronson.blog,review,27,,Ten Signs a Claimed Mathematical Breakthrough Is Wrong (2008) | AlphaCode As A Dog Speaking Mediocre English | Five Worlds of AI (A Joint Post with Boaz Barak)
+sfgate.com,review,27,,"3 years ago, VCs in Bay Area tech were thriving. Now, they're 'bleeding cash.' | Yelp can manipulate ratings, court rules | The California man who hid for 6 months in a secret room inside Circuit City"
+skepticalscience.com,review,27,,The Debunking Handbook: now freely available for download | Global Warming & Climate Change Myths
+adobe.com,review,26,,Adobe has released the SWF file format specification | CSS Shader - Adobe brings WebGL to CSS | Developing for the Apple iPhone using Flash
+blog.torproject.org,review,26,,Tor project refutes Black Hat talk a day before it happens | Mission Impossible: Hardening Android for Security and Privacy | WebTunnel
+blogs.gnome.org,review,26,,The world’s fastest VP9 decoder: ffvp9 | Why is the open source driver release from Nvidia so important for Linux? | A new accessibility architecture for modern free desktops
+cbpp.org,review,26,,A Guide to Statistics on Historical Trends in Income Inequality
+dailymail.co.uk,review,26,,Ghost fleet of the recession anchored just east of Singapore | Norway's controversial 'cushy prison' experiment - could it catch on? | Inside the Kowloon Walled City
+docs.stripe.com,exclude,26,,Stripe Launches PayPal Integration In Europe | Send payouts with Stripe | PSA: Stripe.js v2 now explicitly requires PCI compliance documentation
+fedoraproject.org,review,26,,Python 3 is now default in Fedora 22 Beta | Fedora Silverblue – Immutable Desktop OS | Fedora 40: Changes/Unified Kernel Support Phase 2
+hetzner.com,review,26,,Hetzner Storage Boxes | Will consumer facing open source become a runaway train? | New Hetzner Managed Servers
+iopscience.iop.org,review,26,,Stratospheric aerosol injection costs in the first 15 years of deployment | Breakthrough Evidence for a Gravitational-Wave Background | Breaking the warp barrier: solitons in Einstein–Maxwell-plasma theory (2021)
+kff.org,review,26,,Latest Data on Covid-19 Vaccinations by Race/Ethnicity | Health Insurance Subsidy Calculator | Faith and Reproductive Justice Are Not in Opposition
+khanacademy.org,review,26,,Khan Academy: Computer Science | Journey into cryptography (Khan Academy) | Algorithms
+marketwatch.com,review,26,,"45% of Americans Pay No Federal Income Tax | Here’s all the money in the world, in one chart | Streaming every NFL game this season requires 7 different services, costs $2,500"
+norvig.com,review,26,,Natural Language Corpus Data: Beautiful Data | Paradigms of Artificial Intelligence Programming | English Letter Frequency Counts: Mayzner Revisited or Etaoin Srhldcu
+ohchr.org,review,26,,"Philip Alston on a lack of compassion for the poor in the US: Statement on Visit to the USA, by Professor Philip Alston, United Nations Special Rapporteur on extreme poverty and human rights* | UN Human Rights Office issues assessment of human rights concerns in China | A nice long academic look at the homeless problem in the US - ""Statement on Visit to the USA"", by Professor Philip Alston, United Nations Special Rapporteur on extreme poverty and human rights"
+openwrt.org,review,26,,OpenWrt One | OpenWrt 25.12.0 – Stable Release | OpenWrt: Supported Devices
+prog21.dadgum.com,review,26,,"Revisiting ""Purely Functional Retrogames"": On Functional Programming advocacy | Living Inside Your Own Black Box | Dangling by a Trivial Feature"
+pytorch.org,review,26,,Pytorch Named Tensors | Experience the power of PyTorch 2.0 on AMD Solutions | Accelerated PyTorch Training on M1 Mac
+raspberrypi.org,review,26,,NOOBS v1.3.5 Downloads | Raspberry Pi | Introducing Raspberry Pi Model B+ | The Making of Pi
+ribbonfarm.com,review,26,,"Survival of the Mediocre Mediocre | You Are Not an Artisan (2013) | The Gervais Principle, or the Office According to “The Office” (2009)"
+supabase.com,review,26,,Postgres WASM | Pgvector: Embeddings and vector similarity – Supabase Docs | Pg_jsonschema: JSON Schema Support for Postgres
+wired.co.uk,review,26,,"Valve's flat management structure 'like high school' | Revolut insiders reveal the human cost of a fintech unicorn's wild rise | A fake hitman, a kill list and a murder (2018)"
+aider.chat,review,25,,Unified Diffs Reduce ChatGPT laziness 3x | Building a better repository map with tree sitter | GPT-4o takes #1 and #2 on the Aider LLM leaderboards
+chipsandcheese.com,review,25,,Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications | Intel’s Netburst: Failure Is a Foundation for Success | Graviton 3: First Impressions
+clickhouse.com,review,25,,Asynchronous Data Inserts in ClickHouse | Postgres Managed by ClickHouse | Show HN: ClickHouse-local – a small tool for serverless data analytics
+coindesk.com,review,25,,"Former Ethereum Dev Virgil Griffith Sentenced to 5 Yrs for N.Korea Trip | Ethereum Executes Blockchain Hard Fork to Return DAO Funds | United Nations Sends Aid to 10,000 Syrian Refugees Using Ethereum Blockchain"
+common-lisp.net,review,25,,Embeddable Common-Lisp Android 0.0.1 released | Common Lisp Implementations: A Survey | Cells - A dataflow extension to CLOS
+fsharpforfunandprofit.com,review,25,,The Enterprise Developer from Hell (2014) | The “Thinking Functionally” Series | Pipeline-Oriented Programming (2019)
+graalvm.org,review,25,,"On average, Python in GraalVM is 8.92x faster than CPython | Why GraalVM | GraalVM and Java and Native Images, compile Java to standalone executables"
+jalopnik.com,review,25,,The Fascinating Engineering Behind VW's Electric Car Platform of the Future | Elon Musk Promises Full Self-Driving “Next Year” for the Ninth Year in a Row | Tesla Model 3 Teardown by Engineering Firm Reveals Flaws Like 'A Kia in the 90s'
+modelcontextprotocol.io,review,25,,MCP is an open protocol that standardizes how apps provide context to LLMs | Model Context Protocol | MCP Protocol Specification
+nginx.org,review,25,,Nginx can now pass requests directly to your app without buffering them fully | Upgrading an Nginx executable on the fly | Two security issues were identified in Nginx HTTP/2 implementation
+online.wsj.com,review,25,,The Henry Ford of Heart Surgery | Insurers Test Data Profiles to Identify Risky Clients | The Whole Foods Alternative to ObamaCare
+philip.greenspun.com,review,25,,Early Retirement (2006) | Tcl for Web Nerds | Phil Greenspun debunks Malcolm Gladwell on airline safety
+projects.propublica.org,include,25,ProPublica,The ongoing bailout list of the financial system | Deeply Trump Has Cut Federal Health Agencies | What Parler Saw During the Attack on the Capitol
+randomascii.wordpress.com,review,25,,Windows Timer Resolution: Megawatts Wasted | Taskbar Latency and Kernel Calls | Symbols on Linux Part Three: Linux versus Windows
+teslamotors.com,review,25,,Recycling our Non-Toxic Battery Packs | Tesla Model S Update (April 2016) | All Our Patent Are Belong To You
+thebaffler.com,include,25,The Baffler,"Narrative Napalm — Noah Kulwin rippin' up my boy Gladwell here, but the article is well done | We Used to Read Things in This Country | Noah McCormack | Jan Valtin’s 1941 memoir of revolutionary fervor, suffering, and lost faith"
+un.org,review,25,,Universal Declaration of Human Rights – United Nations | Universal Declaration of Human Rights | Nature's Decline Unprecedented; Species Extinction Rates Accelerating (2019)
+w3techs.com,review,25,,"WordPress is used by more websites than all other CMS combined | PHP used by 77% of all websites, PHP 8 by 3% | Usage statistics of server-side programming languages for websites"
+world.hey.com,review,25,,On Company Size | The waning days of DEI's dominance | Hey.com: We Have Left the Cloud
+worrydream.com,review,25,,"The Future of Programming (2013) | Frequently updated catalog of material about computation / UI and design | Additional Notes on ""Drawing Dynamic Visualizations"" (2013)"
+artima.com,review,24,,"Programming in Scala, First Edition | It isn't Easy to Remove the GIL (2007) | Adding Optional Static Typing to Python (2004)"
+bitsaboutmoney.com,review,24,,Seeing Like a Bank | Working Title (Insurance) | Anatomy of a credit card rewards program
+blog.jetbrains.com,review,24,,Experimental Zero-Latency Typing in IntelliJ IDEA | Why JetBrains needs Kotlin (2011) | Jetbrains reply to the story from The New York Times regarding Solarwinds breach
+brennancenter.org,review,24,,Dark Money Hit a Record High of $1.9B in 2024 Federal Races | Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity
+businessweek.com,review,24,,"How Three Germans Are Cloning the Web | ""But how will Google ever make money? There's the rub."" | In Iraq, the Bomb-Detecting Device That Didn't Work, Except to Make Money"
+cleantechnica.com,review,24,,Lidar's Wicked Cost Drop | China's BEV trucks and the end of diesel's dominance | Everything You Need to Know About Tesla’s New 4680 Battery Cell
+examine.com,review,24,,Optimal Protein Intake Guide | Fish Oil
+fossil-scm.org,review,24,,Fossil versus Git | Fossil Chat | Rebase Considered Harmful
+gesetze-im-internet.de,review,24,,
+insideevs.com,review,24,,The U.S. Military's Abrams Tank Is Going Hybrid | I Went to China and Drove a Dozen Electric Cars. Western Automakers Are Cooked | Tesla Cybertruck's Race Against a Porsche 911 Was Apparently an 1/8-Mile Run
+ipcc.ch,review,24,,The Era of Rapid Climate Change | AR6 Climate Change 2021: The Physical Science Basis | IPCC: Climate Change 2023
+metacpan.org,review,24,,"Mason – Powerful, high-performance templating | Acme: Bleach – removes unsightly printable characters from your source file | OAuth2 Overview (2013)"
+mrmoneymustache.com,review,24,,"A Brief History of the Stash, How we Saved from Zero to Retirement in Nine Years | The Low Information Diet | Driving for Uber and Lyft"
+pine64.org,review,24,,Open Source Smartwatch | Light and Thin 64-bit ARM Based Open Source Notebook | Nutcracker Challenge: Blob-Free WiFi and BLE
+popehat.com,review,24,,"What Prenda Law Is Facing In Los Angeles, And How They Got There | Hello You've Been Referred Here Because You're Wrong About the First Amendment | How To Spot And Critique Censorship Tropes In The Media's Coverage Of Free Speech Controversies"
+press.princeton.edu,review,24,,Engineers of Jihad: Connection between Violent Extremism and Education | On Bullshit (2005) | The Great Leveler: Violence and the History of Inequality
+sciencedaily.com,review,24,,"Empathy represses analytic thought, and vice versa (2012) | Aspirin contributed to the high death toll in the Spanish Flu pandemic | Surgical masks as good as N95 against respiratory virus"
+searchengineland.com,review,24,,Pages With Too Many Ads Above The Fold Now Penalized By Google | Google: Chrome Page Will Have PageRank Reduced Due To Sponsored Posts | The new Bing has failed to take any market share from Google after six months
+torproject.org,review,24,,Finding more bridges for Tor | Configuring a Tor Relay | Tor: Hidden Service Protocol
+uber.com,review,24,,Data Race Patterns in Go | DragonCrawl: Generative AI for High-Quality Mobile Testing | Up: Portable Microservices Ready for the Cloud
+vuejs.org,review,24,,JavaScript MV* libraries benchmarked with TodoMVC | Comparison with Other Frameworks | Vue.js vs. React
+androidauthority.com,review,23,,"Google is preparing to let you run Linux apps on Android, just like Chrome OS | Google made its best acquisition nearly 17 years ago (2022) | You can finally run Doom and other graphical apps in Android's Linux Terminal"
+basecamp.com,review,23,,Hill Charts: see where projects really stand | Have an Enemy | It Doesn't Have to Be Crazy at Work
+benchmarksgame.alioth.debian.org,review,23,,Go is even or ahead of Java in most of the benchmarks game | Computer Language Benchmarks Game – Rust vs. Go | Java vs. Go performance
+blogs.sciencemag.org,review,23,,Things I Won’t Work With | Silicon Valley Sunglasses | Does Prior Exposure to Coronaviruses Protect You?
+carbonbrief.org,review,23,,Which countries are historically responsible for climate change? | Solar is now ‘cheapest electricity in history’ | Analysis: Low-sulphur shipping rules are affecting global warming
+computerworld.com,review,23,,A shrinking Firefox faces endangered species status | The '640K' quote won't go away – but did Gates say it? (2008) | Mozilla reports $338M revenue spike from settlement over Yahoo contract (2019)
+construction-physics.com,review,23,,Robot Dexterity Still Seems Hard | A Cycle of Misery: The Business of Building Commercial Aircraft | What Makes Housing So Expensive?
+csis.org,review,23,,Russia's Grinding War – Massive Losses and Tiny Gains for a Declining Power | South America’s Lithium Triangle: Opportunities for the Biden Administration | Wargaming a Chinese Invasion of Taiwan CSIS
+devcenter.heroku.com,review,23,,Efficient Use of PostgreSQL Indexes | Buildpacks - Run Anything on Heroku | Heroku's Cedar has an Ephemeral Filesystem (think EC2)
+hillelwayne.com,review,23,,Is Software Engineering Real Engineering? | What engineering can teach (and learn from) us (2021) | There's Always More History
+journals.sagepub.com,review,23,,Advantages of Longhand over Laptop Note Taking | Alienation Is Not Bullshit: An Empirical Critique of Graeber’s Theory of BS Job | Unexpected detection of SARS-CoV-2 antibodies in the prepandemic period in Italy
+keyvalues.com,review,23,,Show HN: Culture Queries – The best questions to ask during your job interview
+lemire.me,review,23,,Mispredicted branches can multiply your running times | The dangers of AVX-512 throttling: myth or reality? | The Mysterious Aging of Astronauts
+nhs.uk,review,23,,Health A-Z | Behind the Headlines (Health/Science In the News) | Get Running with Couch to 5K
+outsideonline.com,include,23,Outside,"Is Sunscreen the New Margarine? | The Day We Set the Colorado River Free | Drug Test [The writer is an amateur long distance athlete. As an experiment to improve his performance (and fitness) he takes EPO (erythropoietin), human growth hormone, steroids and testosterone. The article is from 2003.]"
+rosettacode.org,review,23,,"Knuth's ""Man or boy test"" | Rosetta Code | Rosetta Code: 99 Bottles of Beer in 117 Programming Languages"
+software.intel.com,review,23,,Intel Architecture Code Analyzer | Intel Digital Random Number Generator (DRNG) Software Implementation Guide | AVX-512 Instructions
+sourceware.org,review,23,,Elfutils Debuginfod | Pay someone | Glibc Malloc Internals
+thedailywtf.com,review,23,,The Spider of Doom (2006) | The Speed-Up Loop | Thinking Machines
+theoatmeal.com,review,23,,Christopher Columbus was awful (but this other guy was not) | Why working at home is both awesome and horrible | The oatmeal responds to Forbes.
+whispersystems.org,review,23,,Video calls for Signal now in public beta | Open Whisper Systems partners with WhatsApp to provide end-to-end encryption | Reflections: The ecosystem is moving
+writings.stephenwolfram.com,review,23,,What Is ChatGPT Doing and Why Does It Work? | What's Going on in Machine Learning? Some Minimal Models | Five Most Productive Years: What Happened and What's Next
+britannica.com,review,22,,
+cambridge.org,review,22,,"Testing Theories of American Politics: Elites, Interest Groups, Average Citizens | The Wilson Effect: The Increase in Heritability of IQ with Age | Environmental Lidar and the crowded ancient landscape of Campeche, Mexico"
+cfr.org,review,22,,Police Compare in Different Democracies | How Much Aid Has the U.S. Sent Ukraine? Here Are Six Charts | U.S. Detention of Child Migrants
+claude.com,review,22,,Claude Code removed from Anthropic's Pro plan | Claude Science | The new rules of context engineering for Claude 5 generation models
+damninteresting.com,review,22,,"The rise and fall of leaded fuel. Interesting article about its' discoverer, and the man who proved it to be dangerous. | Dead Reckoning | The Japanese Art of Self-Preservation"
+dev.to,review,22,,Shell Scripts Matter | Java Is Unsound: The Industry Perspective | Introducing Yarn 2
+en.wikichip.org,review,22,,5 nanometer lithography process | Semiconductor Lithography Process Technology | WikiChip: a semantic computer engineering wiki
+grc.com,review,22,,"Use Fingerprints to Detect TLS MitM | TrueCrypt, the final release, archive | GRC ValiDrive"
+guix.gnu.org,review,22,,Guix Further Reduces Bootstrap Seed to 25% | Joint Statement on the GNU Project | Bootstrapping Rust entirely from source (2018)
+hub.docker.com,review,22,,Announcement: Official Docker Image for Swift Now Available | Docker Hub is down (again)
+infrequently.org,review,22,,Progress Delayed Is Progress Denied | Platform Strategy and Its Discontents | Apple's Assault on Standards
+iso.org,review,22,,ISO/IEC 14882:2020 C++ Standard Published | ISO name change for Türkiye | Ruby has an ISO standard now
+kagi.com,review,22,,"Kagi Search: 100% privacy, 0% ads | Most promoted and blocked domains on Kagi | Universal Summarizer by Kagi – Summarize any content on the web"
+news.bbc.co.uk,review,22,,Arctic summers ice-free by 2013 (2007) | Sitting straight 'bad for backs' | Ant mega-colony takes over world
+openculture.com,review,22,,"How the CIA Helped Shape the Creative Writing Scene in America | Umberto Eco's List of the 14 Common Features of Fascism | Tarkovsky Films Now Free Online | Open Culture
+(Just found this and thought it would be appreciated here)"
+pubs.acs.org,review,22,,New study shows plants and animals emit a visible light that expires at death | Methane and NOx Emissions from Natural Gas Stoves and Cooktops in Homes | Microwaved plastic containers release microplastics into food
+pypi.python.org,review,22,,Trollius – Single Threaded Concurrent Code Framework | Pypi is down | Blessings: a pythonic answer to curses
+tandfonline.com,review,22,,What if Germany had invested in nuclear power? | Maximator: European signals intelligence cooperation | The Dominance of the U.S. 30-Year Fixed Rate Residential Mortgage (2019)
+thecrimson.com,review,22,,"Fire Them All; God Will Know His Own | Harvard's Public Health Dean Was Paid $150k to Testify Tylenol Causes Autism | “I’m just like a little kid. I get bored easily and computers excite me..."""
+timesofisrael.com,review,22,,"For years, Netanyahu propped up Hamas. Now it’s blown up in our faces | Gamblers trying to win a bet on Polymarket are vowing to kill me if I don't rewrite an Iran missile story | The wolves of Tel Aviv: Israel’s vast, amoral binary options scam exposed"
+vim.org,review,22,,Help Uganda children and make Vim better at the same time | VimOrganizer : An Emacs' Org-mode clone for Vim | Ask HN: Rate my Vim Script: snipMate.vim
+aei.org,review,21,,What ATMs and bank tellers reveal about the 'rise of the robots' and jobs | Price Changes: January 2000 to June 2022 | Nixon’s War on Drugs: targeted blacks and anti-war activists
+coinbase.com,review,21,,Bitcoin breaks $200 | Some Coinbase customers' PII data stolen | We asked the SEC for reasonable crypto rules. We got legal threats instead
+daemonology.net,review,21,,"Cryptography is a science, not engineering | Encrypt-then-MAC | Hyper-Threading Considered Harmful (2005)"
+econlib.org,review,21,,"I, Pencil | The Ideological Turing Test (2011) | ""They Clapped"" by Michael Munger: ""They cheered & hooted as the ice sellers were arrested. Some of those buyers had been standing in line for 5+ minutes & had been ready to pay 4x as much as the max price the state would allow. They clapped as the cops, at gunpoint, took that chance away from them."""
+elastic.co,review,21,,"Elastic: We're Opening X-Pack | Dear Search Guard Users | Elasticsearch is open source, again"
+gitlab.gnome.org,review,21,,Gnome / mutter triple buffering patch merged | Triaging security issues reported by third parties | Gnome on GitLab
+healthline.com,review,21,,
+justine.lol,review,21,,Using mmap to make LLaMA load faster | Bash One-Liners for LLMs | Logging C function calls with cosmopolitan Libc (2022)
+khronos.org,review,21,,"OpenCL - The open standard for parallel programming of heterogeneous systems | Vulkan – Graphics and computing belong together | OpenXR – Cross-Platform, Portable, Virtual Reality"
+kotaku.com,review,21,,"Shady Numbers and Bad Business: Inside the Esports Bubble | What Atari Was Really Like, According to Women Who Were There | Riot Games Executive Suspended Without Pay Following Misconduct Investigation"
+languagelog.ldc.upenn.edu,review,21,,Two Dots Too Many (2008) | Language Log | It's not easy seeing green (2015)
+lispworks.com,review,21,,"Lispworks 7.0 with Mobile (iOS, Android) Runtime | Common Lisp HyperSpec | Common Lisp – Myths and Legends"
+marco.org,review,21,,Apple has lost the functional high ground | Just doesn’t feel good | The best laptop ever made
+marxists.org,review,21,,"Oscar Wilde: The Soul of Man under Socialism | ""Estranged Labour"" from Economic and Philosophical Manuscripts of 1844 by Karl Marx where he discusses the concept of ""alienation"" | The Work of Art in the Age of Mechanical Reproduction Walter Benjamin (1936)"
+mediabiasfactcheck.com,review,21,,
+mjg59.dreamwidth.org,review,21,,Secure Boot isn't the only problem facing Linux on Windows 8 hardware | Secure Boot and Restricted Boot | Hacker News is a social echo chamber
+nixos.wiki,review,21,,"NixOS Impermanence | Python on NixOS | Nix-shell shebang: run any script with arbitrary packages, self-contained"
+nongnu.org,review,21,,LwIP – Lightweight IP Stack | The Libunwind Project | Atool – one tool to extract all formats
+practicaltypography.com,review,21,,Triplicate Type Specimen | A design degree's worth of typography rules neatly summarized | Times New Roman alternatives: You can do better (2013)
+protonmail.com,review,21,,Improved Authentication for Email Encryption and Security | Transparency Report – ProtonMail Blog | Why ProtonMail is more secure than Gmail
+pudding.cool,review,21,,"Climate zones: How will your city feel in the future? | Dicing an Onion, the Mathematically Optimal Way | Thirty Minutes with a Stranger"
+research.stlouisfed.org,review,21,,Teaching the Linkage Between Banks and the Fed: RIP Money Multiplier | Velocity of M2 Money Stock | Federal Reserve Economic Data
+rust-lang.org,review,21,,Rust FAQ | Rust 1.0 | Rust has a brand-new FAQ
+sciencealert.com,review,21,,"The term ""vegetative electron microscopy"" keeps showing up in scientific papers | Birds Can See Earth's Magnetic Fields, and Now We Know How That's Possible | 80% of current drug applications in China failed to meet analysis requirements"
+scotusblog.com,review,21,,"SCOTUS Google vs. Oracle oral arguments scheduled | Supreme Court likely to discard Chevron | Supreme Court strikes down Chevron, curtailing power of federal agencies"
+servethehome.com,review,21,,AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost | Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch | Investigating Implausible Bloomberg Supermicro Stories
+taxpolicycenter.org,review,21,,
+techcommunity.microsoft.com,review,21,,"Microsoft Teams: Advantages of the new architecture | Windows Sandbox | Internet Explorer to be Permanently Disabled on Windows 10 on February 14, 2023"
+texasmonthly.com,include,21,Texas Monthly,A Texan who built an empire of ecstasy | She Was Waco’s Baby Whisperer. Then an Infant Died in Her Care. | Inside the Texas Crime Lab That’s Cracked Hundreds of Cold Cases
+w3schools.com,review,21,,Browser Statistics | Firefox share stopped declining | HTML Tutorial
+adafruit.com,review,20,,"Raspberry Pi 5 – 16 GB, $350"
+avc.com,review,20,,Store of Value vs. Payment System | Burn Baby Burn | Finding and Buying a Domain Name (2011)
+bankrate.com,review,20,,
+bitwarden.com,review,20,,How to use the Bitwarden forwarded email alias generator | Bitwarden Secrets Manager | Bitwarden raises $100M
+blog.kagi.com,review,20,,"Update to Kagi Search Pricing | Dawn of a new era in Search: Balancing innovation, competition, and public good | Kagi/Orion status update: First three months"
+boingboing.net,review,20,,Expired patent of the day: Lego | The Coming Civil War over General Purpose Computing (2012) | Lockdown: The coming war on general-purpose computing (2012)
+corecursive.com,review,20,,Software World Tour | From Competitive Programming to APL | Lisp in Space
+dtrace.org,review,20,,"Virtualization Performance: Zones, KVM, Xen | Revisiting the Intel 432 (2008) | KVM on Illumos (OpenSolaris fork)"
+dynomight.net,review,20,,"The case against ultrasonic humidifiers | Something weird is happening with LLMs and chess (Dynomight notices that LLMs except for one, suck at chess) | In Defense of Myers Briggs (2020)"
+eng.uber.com,review,20,,How Uber Deals with Large iOS App Size | Data Race Patterns in Go | Keeping master green at scale
+ethereum.org,review,20,,The Merge is approaching – Ethereum | Ethereum Development Documentation | Tokens can represent virtually anything in Ethereum
+fastmail.com,review,20,,Masked Email from Fastmail and 1Password | Fastmail: Staff access to your data | Memos: stick private notes on your email
+gallup.com,review,20,,"13% of the world's adults -- 630 million people -- say they would like to leave their country and move somewhere else permanently. | The global pandemic's impact on global engagement, stress and the workforce | The Big Lie: 5.6% Unemployment"
+gdpr.eu,review,20,,GDPR Checklist | Does the GDPR apply to companies outside of the EU? | What is considered personal data under the EU GDPR?
+gimletmedia.com,review,20,,LSD Microdosing in the Valley to Impact Performance | #158 the Case of the Missing Hit | Long Distance
+html5rocks.com,review,20,,A Tale of Two Clocks – Scheduling Web Audio with Precision | HTML Imports: #include for the web | HTML5 Rocks has a whole new look
+jepsen.io,review,20,,PostgreSQL 12.3 Jepsen Analysis (2020) | Jepsen: Bufstream 0.1 | Consistency Models
+mitchellh.com,review,20,,The Zig Parser (2022) | My Startup Banking Story | Prompt Engineering vs. Blind Prompting
+oxide.computer,review,20,,Oxide: The Cloud Computer | Oxide cuts data center power consumption in half | Compensation as a Reflection of Values
+platform.claude.com,review,20,,Claude Code Tool Search Tool | Prompt Caching – Claude Platform Docs | Sonnet Pricing Update
+rand.org,review,20,,Extending Russia – Competing from Advantageous Ground (2019) | The Russian “Firehose of Falsehood” Propaganda Model | A Million Random Digits with 100k Normal Deviates (2001)
+sublimetext.com,review,20,,Sublime Text 2.0.1 released | Sublime Text Development Status | Sublime Text 3.0 is out
+t-mobile.com,review,20,,"T-Mobile Starlink Satellite Phone Service | “As of June 30, 2022 Sprint’s LTE network will be retired” | T‑Mobile Takes Coverage Above and Beyond with SpaceX"
+techblog.netflix.com,review,20,,The Netflix Simian Army | Java mixed-mode flame graphs | Netflix Recommendations: Beyond the 5 stars (2012)
+thebalance.com,review,20,,"US Military Budget: Components, Challenges and Growth | Largest Economies in the World: Why China Is the World's Largest Economy | A Specific Breakdown of Who Owns the US National Debt and How Much Is Owed"
+thedailybeast.com,review,20,,Hillary PAC Spends $1M to ‘Correct’ Commenters on Reddit and Facebook | The Coddling of the American Parent | ‘Craft’ Whiskey Is Probably From a Factory Distillery in Indiana
+tvtropes.org,review,20,,Seinfeld Is Unfunny | Orange/Blue Contrast | Things I'll do if I ever become an Evil Overlord
+astralcodexten.substack.com,include,18,Astral Codex Ten,I Won My Three Year AI Progress Bet in Three Months | Prediction Market FAQ | Whither Tartaria?
+worksinprogress.co,include,18,Works in Progress,Essay On Homelessness  and Why Higher Rents Cause More Homelessness - Recall San Fransicko Review | The Housing Theory of Everything | The Prehistoric Psychopath
+asteriskmag.com,include,14,Asterisk,"The Perplexing Appeal of The Telepathy Tapes | Why Are There So Many Rationalist Cults?—Asterisk | We tell our children that weirdness is a blessing in disguise. That’s our fantasy, not theirs."
+features.propublica.org,include,13,ProPublica,The Inside Story of an American Warship Doomed by Its Own Navy | The Navy Installed Touch-screen Steering Systems To Save Money. Ten Sailors Paid With Their Lives. | Firms That Promised Ransomware Decryption Almost Always Just Pay the Hackers
+nplusonemag.com,include,13,n+1,"Raise the Crime Rate | ""[...] the figures that suggest that violence has been disappearing in the United States contain a blind spot [...] Uncounted in the official tallies are the hundreds of thousands of crimes that take place in the country’s prison system"" | The Stupidity of Computers | Rollins was the last feral master of an art that has become at least partly domesticated. His improvisations confronted you with the possibility of failure, and thrilled you when he succeeded in pulling back from the brink"
+guardian.co.uk,include,12,The Guardian,Revealed: how the FBI coordinated the crackdown on Occupy | Is the US the only country where more men are raped than women? | “Down with meritocracy”: the man who coined the word four decades ago (2001)
+vulture.com,include,12,New York Magazine,"The Binge Purge | Garbage Language: Why do corporations speak the way they do? | Scott Rudin, As Told by His Assistants"
+archive.wired.com,include,6,Wired,"Why the future doesn't need us (2000) | A 45,000 word essay about undersea fiberoptic cables by Neal Stephenson (1996) | Mother Earth Mother Board (1996)"
+brainpickings.org,include,6,The Marginalian,20-Year-Old Hunter S. Thompson’s Superb Advice on How to Find Your Purpose and Live a Meaningful Life | John Cleese on the Five Factors to Make Your Life More Creative (2012) | How to Criticize with Kindness: Philosopher Daniel Dennett on the Four Steps to Arguing Intelligently
+curbed.com,include,6,New York Magazine,The House on West Clay Street | New Yorkers Never Came ‘Flooding Back.’ Why Did Rents Go Up So Much? | The Squatters of Beverly Hills
+developers.openai.com,exclude,6,,Compare OpenAI Models | Assistants API Overview | OpenAI Realtime API
+sf.curbed.com,include,6,New York Magazine,San Francisco has nearly five empty homes per homeless resident | Stanford paper says rent control is driving up cost of housing in San Francisco | Bay Area rail costs: Why are they among the world’s highest?
+granta.com,include,5,Granta,V.S. Naipaul: The Grief and the Glory | The Serpent in the Grove | Jamir Nazir | Police Homicides in the United States
+doc.guix.gnu.org,exclude,4,,
+grubstreet.com,include,4,New York Magazine,Why Tips Won | Why Is There a Bucatini Shortage in America? | The Last Conversation You’ll Ever Need to Have About Eating Right
+thepointmag.com,include,4,The Point,Among the Post-Feminists: From Revolutionaries to Realists | Who Wants to Play the Status Game? | Alt Lit
+docs.google.com,exclude,3,,A Visual History of World Poverty | Go 1.4+ Garbage Collection Plan and Roadmap
+economist.com,include,3,1843 Magazine,When the New York Times lost its way | The life of a private tutor (2020) | The curse of Kenya’s long-distance runners
+learn.microsoft.com,exclude,3,,Microsoft HoloLens – Official Site | Support ends in 2014 for Windows XP and Office 2003 | The Science of Word Recognition
+story.californiasunday.com,include,3,California Sunday Magazine,"Traversing the Darien Gap, the Longest Walk to America | Gone | A Kingdom from Dust"
+support.mozilla.org,exclude,3,,Firefox Lockwise – Encrypted Password Manager | Firefox OS
+themarginalian.org,include,3,The Marginalian,A Parliament of Owls and a Murder of Crows: How Groups of Birds Got Their Names | Umberto Eco's Antilibrary: Why Unread Books Are More Valuable Than Read Ones
+en.wikipedia.org,exclude,2,,Learning To Be Me - short story by Greg Egan similar to The Whispering Earring
+stories.californiasunday.com,include,2,California Sunday Magazine,Dunkin’ and the Doughnut King | The Real Teens of Silicon Valley
+thebeliever.net,include,2,The Believer,Aristocrat Inc | Violent Delights - Believer Magazine
+worksinprogress.news,include,2,Works in Progress,Demand for human radiologists is at an all-time high | The first non-opoid painkiller
+addons.mozilla.org,exclude,1,,Facebook Container for Firefox
+apps.microsoft.com,exclude,1,,
+archive.curbed.com,include,1,New York Magazine,
+believermag.com,include,1,The Believer,The People of Las Vegas
+features.texasmonthly.com,include,1,Texas Monthly,The Trouble with Innocence
+github.com/golang,exclude,1,,
+github.com/login,exclude,1,,
+github.com/mozilla,exclude,1,,Mozilla Collusion
+github.com/stripe,exclude,1,,Stripe: Open Source
+github.com/stripe-archive,exclude,1,,Announcing MoSQL
+la.curbed.com,include,1,New York Magazine,Did a conspiracy destroy LA’s streetcar system?
+ny.curbed.com,include,1,New York Magazine,
+projects.newyorker.com,include,1,The New Yorker,New York's Shadow Transit
+store.thebaffler.com,include,1,The Baffler,
+wiki.mozilla.org,exclude,1,,Mozilla Included CA Certificate List
+1843magazine.com,include,0,1843 Magazine,
+abstractions.nautil.us,include,0,Nautilus,
+aging.nautil.us,include,0,Nautilus,
+alliance.nautil.us,include,0,Nautilus,
+andrewsullivan.theatlantic.com,include,0,The Atlantic,
+api.quantamagazine.org,include,0,Quanta Magazine,
+archive.harpers.org,include,0,Harper's Magazine,
+archive.vanityfair.com,include,0,Vanity Fair,
+archives.newyorker.com,include,0,The New Yorker,
+assets.wired.com,include,0,Wired,
+atavistinsider.atavist.com,include,0,The Atavist Magazine,
+atlanta.curbed.com,include,0,New York Magazine,
+blog.wired.com,include,0,Wired,
+blogs.guardian.co.uk,include,0,The Guardian,
+books.guardian.co.uk,include,0,The Guardian,
+books.worksinprogress.co,include,0,Works in Progress,
+business.theatlantic.com,include,0,The Atlantic,
+cancer.nautil.us,include,0,Nautilus,
+cdn.theatlantic.com,include,0,The Atlantic,
+chicago.curbed.com,include,0,New York Magazine,
+classic.esquire.com,include,0,Esquire,
+correspondents.theatlantic.com,include,0,The Atlantic,
+cosmos.nautil.us,include,0,Nautilus,
+dc.curbed.com,include,0,New York Magazine,
+developers.theguardian.com,include,0,The Guardian,
+earth.nautil.us,include,0,Nautilus,
+education.guardian.co.uk,include,0,The Guardian,
+es.wired.com,include,0,Wired,
+evan.atavist.com,include,0,The Atavist Magazine,
+howto.wired.com,include,0,Wired,
+ieeexplore.ieee.org,exclude,0,,
+jeffreygoldberg.theatlantic.com,include,0,The Atlantic,
+justingerdes.atavist.com,include,0,The Atavist Magazine,
+labs.theguardian.com,include,0,The Guardian,
+mastermind.atavist.com,include,0,The Atavist Magazine,
+mathmap.quantamagazine.org,include,0,Quanta Magazine,
+maxplanck.nautil.us,include,0,Nautilus,
+media.wired.com,include,0,Wired,
+meganmcardle.theatlantic.com,include,0,The Atlantic,
+mentalfloss.atavist.com,include,0,The Atavist Magazine,
+mitp.nautil.us,include,0,Nautilus,
+newsletters.theatlantic.com,include,0,The Atlantic,
+newyork.grubstreet.com,include,0,New York Magazine,
+observer.guardian.co.uk,include,0,The Guardian,
+oceans.nautil.us,include,0,Nautilus,
+periodic.atavist.com,include,0,The Atavist Magazine,
+pmc.ncbi.nlm.nih.gov,exclude,0,,
+pyxis.nymag.com,include,0,New York Magazine,
+read.atavist.com,include,0,The Atavist Magazine,
+static.nautil.us,include,0,Nautilus,
+subscribe.wired.com,include,0,Wired,
+support.theguardian.com,include,0,The Guardian,
+van-us.atavist.com,include,0,The Atavist Magazine,
+velo.outsideonline.com,include,0,Outside,
+video.newyorker.com,include,0,The New Yorker,
