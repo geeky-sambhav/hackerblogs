@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HackerReads
 
-## Getting Started
+HackerReads is inspired by Andrej Karpathy's HackerTube. It takes the same idea and
+applies it to writing: a catalog of the best articles and essays from
+across the web, the long reads people keep recommending year after year.
 
-First, run the development server:
+Pieces are chosen by evidence (Hacker News and Reddit recommendations spread over many
+months and years, plus curators and prizes), deterministically, with no AI labelling.
+Every entry links to the original publisher.
+
+## Layout
+
+| Path | What |
+|---|---|
+| `apps/web` | Next.js 16 site (App Router, Cache Components, Tailwind v4, shadcn) |
+| `apps/pipeline` | Node + TypeScript data pipeline (DuckDB for raw data, Postgres for the catalog) |
+| `packages/db` | Drizzle schema, migrations and clients for Neon Postgres |
+| `packages/shared` | URL canonicalisation, scoring/eligibility rules, feed algorithm (unit-tested) |
+| `.data/` | Local, gitignored: raw dumps, crawl caches, `raw.duckdb` |
+
+Secrets live in the root `.env` (`DATABASE_URL`, `DATABASE_URL_POOLED`).
+
+## Commands
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+bun install
+bun run db:migrate        # apply migrations to Neon
+bun run test              # unit tests (shared + pipeline)
+bun run typecheck
+bun run lint
+bun run build             # builds the site (prerenders every page from Neon)
+bun run --cwd apps/web dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Rebuilding the catalog
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Run stages in order with `bun run pipeline <stage>` (from the repo root). Crawlers are
+polite (robots.txt, one request per second per host) and cache every response under
+`.data/cache`, so re-runs are cheap.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. `.data/download-hn.sh`: download the Hacker News archive (about 12 GB of Parquet).
+2. `ingest:hn`: extract story URLs and comment links with DuckDB.
+3. `ingest:reddit`: link posts from subreddits in `apps/pipeline/config/sources.yaml` (Arctic Shift).
+4. `ingest:longform`, `ingest:longreads`, `ingest:kottke`, `ingest:mr`, `ingest:wayback`: curator picks.
+   `ingest:mr` reads Marginal Revolution's research archive; unzip `posts.jsonl` into `.data/raw/mr/` first.
+5. `ingest:awards`: Pulitzer, National Magazine Award and Polk honorees.
+6. `prescore`: canonicalise URLs, select candidates, push to Postgres, write
+   `apps/pipeline/config/domains_review.csv`.
+7. Review that CSV (set `status` to include / exclude / auto / review), then `domains:import`.
+8. `fetch:meta`: fetch candidate pages for titles, authors, dates, word counts (hours).
+9. `score`: filters, eligibility, ranking, cutoff (`--classic=3000 --rising=200`).
+10. `taxonomy`, `related`, `collections`, then `report` (writes `apps/pipeline/reports/catalog-report.md`).
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Ranking rules are documented in `packages/shared/src/score.ts`; scope filters in
+`apps/pipeline/src/lib/filters.ts`.
